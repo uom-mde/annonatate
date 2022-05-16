@@ -21,7 +21,7 @@ order: 2
         "source": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-02033/canvas/46",
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"426.89019775390625,1357.84521484375 426.89019775390625,4821.6640625 2469.507568359375,4815.91015625 2486.76904296875,1352.0914306640625\"></polygon></svg>"
+            "value": "<svg><polygon points=\"426.9,1357.8 445.5,4798.5 2475.1,4791 2486.8,1352.1\"></polygon></svg>"
         },
         "dcterms:isPartOf": {
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-02033",
