@@ -1,0 +1,34 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-02033/canvas/46"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Original Hebrew text",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2022-05-16T15:48:28.525Z",
+            "modified": "2022-05-16T15:48:34.996Z"
+        }
+    ],
+    "target": {
+        "source": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-02033/canvas/46",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"426.89019775390625,1357.84521484375 426.89019775390625,4821.6640625 2469.507568359375,4815.91015625 2486.76904296875,1352.0914306640625\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-02033",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "66e01555-e731-4bd9-9fe2-d01cd672dd86.json",
+    "motivation": "commenting"
+}
