@@ -24,7 +24,7 @@ order: 1
             "value": "<svg><polygon points=\"422.3,1325 498.6,1318 2517.3,1318 2490.7,4139.7 3924.3,4130.6 3939.7,438.6 425,484.8 422.6,575.8\"></polygon></svg>"
         },
         "dcterms:isPartOf": {
-            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-02033",
+            "id": "https://www.digitalcollections.manchester.ac.uk/view/MS-GASTER-HEBREW-02033/46",
             "type": "Manifest"
         }
     },
