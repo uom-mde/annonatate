@@ -1,0 +1,34 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013/canvas/220"
+order: 4
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Judeo-Persian translation of the verse",
+            "purpose": "describing",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2022-05-16T17:11:03.655Z",
+            "modified": "2022-05-16T17:11:15.538Z"
+        }
+    ],
+    "target": {
+        "source": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013/canvas/220",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"339.043701171875,2934.365234375 2295.287109375,2927.42822265625 2288.35009765625,3114.72802734375 3904.678955078125,3100.85400390625 3911.615966796875,3281.217041015625 776.0768432617188,3274.27978515625 776.0768432617188,3100.85400390625 332.106689453125,3100.85400390625\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3bb81f61-a3d7-46fb-ae13-57633271caf1.json",
+    "motivation": "commenting"
+}
