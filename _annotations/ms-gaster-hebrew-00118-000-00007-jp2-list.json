@@ -1,0 +1,9 @@
+---
+canvas_id: "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00007.jp2/info.json"
+---
+{% assign annotations = site.annotations | where: "canvas", page.canvas_id | sort: "order" | map: "content" %}
+{
+"@context": "http://iiif.io/api/presentation/3/context.json",
+"id": "{{ site.url }}{{ site.baseurl }}{{page.url}}",
+"type": "AnnotationPage",
+"items": [{{ annotations | join: ","}}] }
