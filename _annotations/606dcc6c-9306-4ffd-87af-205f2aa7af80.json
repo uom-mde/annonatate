@@ -1,0 +1,31 @@
+---
+canvas: "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00007.jp2/info.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Cures for gynaecological problems",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2022-05-18T15:49:52.509Z",
+            "modified": "2022-05-18T15:50:04.491Z"
+        }
+    ],
+    "target": {
+        "source": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00007.jp2/info.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=209.3068389892578,208.3244171142578,4739.095993041992,5897.972457885742"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "606dcc6c-9306-4ffd-87af-205f2aa7af80.json",
+    "motivation": "commenting"
+}
