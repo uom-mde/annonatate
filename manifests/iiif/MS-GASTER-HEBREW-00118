@@ -1,0 +1,3597 @@
+---
+---
+{
+  "viewingDirection": "right-to-left",
+  "metadata": [
+    {
+      "label": "Former Owner(s)",
+      "value": "Gaster, Moses 1856-1939"
+    },
+    {
+      "label": "Alternative Identifier(s)",
+      "value": "Gaster 118"
+    },
+    {
+      "label": "Binding",
+      "value": "<p>Modern black leather binding.</p>"
+    },
+    {
+      "label": "Title",
+      "value": "Medical and magico-medical remedies and prescriptions"
+    },
+    {
+      "label": "Acquisition",
+      "value": "Acquired by The John Rylands Library from the heirs of Moses Gaster in 1954."
+    },
+    {
+      "label": "Layout",
+      "value": "<p>Layout throughout the codex is irregular and leading close to the edges. Numbering of paragraphs is given in Hebrew.</p>"
+    },
+    {
+      "label": "Funding",
+      "value": ""
+    },
+    {
+      "label": "Date of Creation",
+      "value": "17th century"
+    },
+    {
+      "label": "Origin",
+      "value": "<p>Produced in the 17th century.</p>"
+    },
+    {
+      "label": "Collation",
+      "value": "<p>Presence of catchword on folio <a dir='auto' href='' onclick='store.loadPage(6);return false;'>1b</a>.</p>"
+    },
+    {
+      "label": "Script",
+      "value": "<div style='list-style-type: disc;'><div style='display: list-item; margin-left: 20px;'>Ashkenazi semi-cursive script, several hands.</div><div style='display: list-item; margin-left: 20px;'>German in Latin cursive script (e.g. folios 20a-21a)</div></div>"
+    },
+    {
+      "label": "Data Source(s)",
+      "value": "Description based on Alexander Samely's unpublished draft catalogue, revised and expanded by Stefania Silvestri and Renate Smithuis."
+    },
+    {
+      "label": "Language(s)",
+      "value": "Yiddish, with some Hebrew and German"
+    },
+    {
+      "label": "Physical Location",
+      "value": "The John Rylands Library"
+    },
+    {
+      "label": "Extent",
+      "value": "58 ff. (i+56+i) Leaf height: 189 mm, width: 161 mm."
+    },
+    {
+      "label": "Classmark",
+      "value": "Gaster Hebrew MS 118"
+    },
+    {
+      "label": "Subject(s)",
+      "value": "Medicine--Early works to 1800"
+    },
+    {
+      "label": "Abstract",
+      "value": "<p style='text-align: justify;'>Medical and magico-medical remedies and prescriptions up to folio <a dir='auto' href='' onclick='store.loadPage(117);return false;'>55a</a>. Between folios <a dir='auto' href='' onclick='store.loadPage(5);return false;'>1a</a> and <a dir='auto' href='' onclick='store.loadPage(113);return false;'>53a</a> there are approximately 440 texts, numbered in Hebrew 68-508 (\u05e1\u05d7-\u05ea\u05e7\u05d7) by another hand. Quite a few remedies written either solely or mostly in German with Latin characters, possibly some Latin phrases such as for materia medica. Folio <a dir='auto' href='' onclick='store.loadPage(109);return false;'>51a</a> contains rules for the handling of the Sefer Torah. Folios <a dir='auto' href='' onclick='store.loadPage(118);return false;'>55b-56a</a> contain a documentary text in Yiddish, which appears to be a list.</p>"
+    },
+    {
+      "label": "Foliation",
+      "value": "<p><p>Modern pencil foliation in Arabic numerals at the top outer corner of side a of each folio (<a dir='auto' href='' onclick='store.loadPage(5);return false;'>1a-56a</a>). The 26th folio (<a dir='auto' href='' onclick='store.loadPage(55);return false;'>unnumbered i</a>) lacks foliation. The fortieth folio <a dir='auto' href='' onclick='store.loadPage(83);return false;'>38A</a>. Hebrew foliation at the top outer corner of side a of each folio: 70-89 (\u05e4-\u05e6\u05d8) on folios <a dir='auto' href='' onclick='store.loadPage(5);return false;'>1-18</a>; missing 72 (\u05e4\u05d1). On folios <a dir='auto' href='' onclick='store.loadPage(41);return false;'>19-29</a> alphabetical foliation: b-f (<a dir='auto' href='' onclick='store.loadPage(41);return false;'>19a-23a</a>), missing on folio <a dir='auto' href='' onclick='store.loadPage(51);return false;'>24a</a>, g-i (<a dir='auto' href='' onclick='store.loadPage(53);return false;'>25a-26a</a>), missing on folio <a dir='auto' href='' onclick='store.loadPage(59);return false;'>27a</a>, l-ll (<a dir='auto' href='' onclick='store.loadPage(61);return false;'>28a-29a</a>). Somewhat inconsistent Hebrew numbering of paragraphs. Missing: two folios between 1 and 2 (cf. the Hebrew foliation and paragraphs). Blank pages: <a dir='auto' href='' onclick='store.loadPage(84);return false;'>38Ab</a>, <a dir='auto' href='' onclick='store.loadPage(90);return false;'>41b-42a</a>, <a dir='auto' href='' onclick='store.loadPage(111);return false;'>52a</a>.</p></p>"
+    },
+    {
+      "label": "Format",
+      "value": "Codex"
+    },
+    {
+      "label": "Material",
+      "value": "Paper with laid lines parallel to spine, and single chain lines 22,5 mm apart horizontally. Presence of different watermarks: person blowing post horn riding on horse on folios <a dir='auto' href='' onclick='store.loadPage(53);return false;'>25-27</a>; two columns on folio <a dir='auto' href='' onclick='store.loadPage(71);return false;'>33</a>; two trees growing together at top to form an inverted U shape on folios <a dir='auto' href='' onclick='store.loadPage(71);return false;'>33-34</a>, <a dir='auto' href='' onclick='store.loadPage(81);return false;'>38a</a>, <a dir='auto' href='' onclick='store.loadPage(89);return false;'>41</a>, 45-47, <a dir='auto' href='' onclick='store.loadPage(105);return false;'>49-50</a>, <a dir='auto' href='' onclick='store.loadPage(115);return false;'>54</a>."
+    },
+    {
+      "label": "Condition",
+      "value": "<p>Usage stains, slight iron gall ink corrosion, minor tears, and repairs.</p>"
+    },
+    {
+      "label": "Provenance",
+      "value": "<p>Handwritten label on <a dir='auto' href='' onclick='store.loadPage(128);return false;'>spine</a> reading in Hebrew: \"\u05e8\u05e4\u05d5\u05d0\u05d5\u05ea / \u05e2\u05d9\u05d1\u05e8\u05d9 / \u05d8\u05d9\u05d9\u05d8\u05e9 / 118\".</p>"
+    },
+    {
+      "label": "Date of Acquisition",
+      "value": "1954"
+    }
+  ],
+  "@type": "sc:Manifest",
+  "attribution": "Provided by The University of Manchester. <p>Zooming image \u00a9 University of Manchester Library, All rights reserved.</p>  Images made available for download are licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)  This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.",
+  "structures": [
+    {
+      "ranges": [
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/range/ITEM-1",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/range/ITEM-2",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/range/ITEM-3"
+      ],
+      "@type": "sc:Range",
+      "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/range/DOCUMENT",
+      "label": "Medical and magico-medical remedies and prescriptions"
+    },
+    {
+      "canvases": [
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/5",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/6",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/7",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/8",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/9",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/10",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/11",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/12",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/13",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/14",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/15",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/16",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/17",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/18",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/19",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/20",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/21",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/22",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/23",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/24",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/25",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/26",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/27",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/28",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/29",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/30",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/31",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/32",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/33",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/34",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/35",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/36",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/37",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/38",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/39",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/40",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/41",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/42",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/43",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/44",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/45",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/46",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/47",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/48",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/49",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/50",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/51",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/52",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/53",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/54",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/55",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/56",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/57",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/58",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/59",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/60",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/61",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/62",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/63",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/64",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/65",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/66",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/67",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/68",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/69",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/70",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/71",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/72",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/73",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/74",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/75",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/76",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/77",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/78",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/79",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/80",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/81",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/82",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/83",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/84",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/85",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/86",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/87",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/88",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/89",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/90",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/91",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/92",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/93",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/94",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/95",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/96",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/97",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/98",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/99",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/100",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/101",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/102",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/103",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/104",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/105",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/106",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/107",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/108",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/109",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/110",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/111",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/112",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/113",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/114",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/115",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/116",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/117"
+      ],
+      "@type": "sc:Range",
+      "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/range/ITEM-1",
+      "label": "Remedies and prescriptions"
+    },
+    {
+      "canvases": [
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/110"
+      ],
+      "@type": "sc:Range",
+      "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/range/ITEM-2",
+      "label": "Eight rules regarding the handling of the Sefer Torah in the synagogue"
+    },
+    {
+      "canvases": [
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/118",
+        "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/119"
+      ],
+      "@type": "sc:Range",
+      "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/range/ITEM-3",
+      "label": "Recipes?"
+    }
+  ],
+  "description": "<p style='text-align: justify;'>Medical and magico-medical remedies and prescriptions up to folio <a dir='auto' href='' onclick='store.loadPage(117);return false;'>55a</a>. Between folios <a dir='auto' href='' onclick='store.loadPage(5);return false;'>1a</a> and <a dir='auto' href='' onclick='store.loadPage(113);return false;'>53a</a> there are approximately 440 texts, numbered in Hebrew 68-508 (\u05e1\u05d7-\u05ea\u05e7\u05d7) by another hand. Quite a few remedies written either solely or mostly in German with Latin characters, possibly some Latin phrases such as for materia medica. Folio <a dir='auto' href='' onclick='store.loadPage(109);return false;'>51a</a> contains rules for the handling of the Sefer Torah. Folios <a dir='auto' href='' onclick='store.loadPage(118);return false;'>55b-56a</a> contain a documentary text in Yiddish, which appears to be a list.</p>",
+  "logo": "https://www.digitalcollections.manchester.ac.uk/mirador-ui/uom_logo.png",
+  "@id": "https://uom-mde.github.io/annonatate/manifests/iiif/MS-GASTER-HEBREW-00118?/manifest.json",
+  "label": "Medical and magico-medical remedies and prescriptions (Gaster Hebrew MS 118)",
+  "sequences": [
+    {
+      "canvases": [
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00001.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 6041,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00001.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/1"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 6041,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/1",
+          "label": "Front_cover",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00002.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5271,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00002.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/2"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5271,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/2",
+          "label": "Front_paste-down",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00003.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5280,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00003.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/3"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5280,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/3",
+          "label": "ia",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00004.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5058,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00004.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/4"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5058,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/4",
+          "label": "ib",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00005.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 4987,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00005.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/5"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 4987,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/5",
+          "label": "1a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00006.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5228,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00006.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/6"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5228,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/6",
+          "label": "1b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00007.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5193,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00007.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/7"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5193,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/7",
+          "label": "2a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00008.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 4937,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00008.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/8"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 4937,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/8",
+          "label": "2b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00009.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 4998,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00009.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/9"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 4998,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/9",
+          "label": "3a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00010.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5227,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00010.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/10"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5227,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/10",
+          "label": "3b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00011.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5166,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00011.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/11"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5166,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/11",
+          "label": "4a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00012.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5223,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00012.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/12"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5223,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/12",
+          "label": "4b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00013.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5210,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00013.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/13"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5210,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/13",
+          "label": "5a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00014.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5225,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00014.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/14"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5225,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/14",
+          "label": "5b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00015.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5255,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00015.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/15"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5255,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/15",
+          "label": "6a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00016.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5289,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00016.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/16"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5289,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/16",
+          "label": "6b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00017.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5165,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00017.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/17"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5165,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/17",
+          "label": "7a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00018.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5209,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00018.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/18"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5209,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/18",
+          "label": "7b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00019.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5123,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00019.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/19"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5123,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/19",
+          "label": "8a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00020.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5175,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00020.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/20"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5175,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/20",
+          "label": "8b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00021.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5146,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00021.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/21"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5146,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/21",
+          "label": "9a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00022.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5145,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00022.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/22"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5145,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/22",
+          "label": "9b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00023.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5128,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00023.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/23"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5128,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/23",
+          "label": "10a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00024.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5145,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00024.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/24"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5145,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/24",
+          "label": "10b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00025.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5077,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00025.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/25"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5077,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/25",
+          "label": "11a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00026.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5118,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00026.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/26"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5118,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/26",
+          "label": "11b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00027.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5085,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00027.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/27"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5085,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/27",
+          "label": "12a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00028.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5118,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00028.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/28"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5118,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/28",
+          "label": "12b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00029.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5085,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00029.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/29"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5085,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/29",
+          "label": "13a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00030.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5150,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00030.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/30"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5150,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/30",
+          "label": "13b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00031.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5110,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00031.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/31"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5110,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/31",
+          "label": "14a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00032.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5097,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00032.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/32"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5097,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/32",
+          "label": "14b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00033.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5091,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00033.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/33"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5091,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/33",
+          "label": "15a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00034.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5113,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00034.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/34"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5113,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/34",
+          "label": "15b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00035.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5074,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00035.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/35"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5074,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/35",
+          "label": "16a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00036.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5097,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00036.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/36"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5097,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/36",
+          "label": "16b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00037.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5110,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00037.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/37"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5110,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/37",
+          "label": "17a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00038.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5120,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00038.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/38"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5120,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/38",
+          "label": "17b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00039.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5072,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00039.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/39"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5072,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/39",
+          "label": "18a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00040.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5104,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00040.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/40"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5104,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/40",
+          "label": "18b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00041.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5002,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00041.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/41"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5002,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/41",
+          "label": "19a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00042.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5009,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00042.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/42"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5009,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/42",
+          "label": "19b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00043.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5002,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00043.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/43"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5002,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/43",
+          "label": "20a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00044.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5091,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00044.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/44"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5091,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/44",
+          "label": "20b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00045.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 4966,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00045.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/45"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 4966,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/45",
+          "label": "21a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00046.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5179,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00046.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/46"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5179,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/46",
+          "label": "21b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00047.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5039,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00047.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/47"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5039,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/47",
+          "label": "22a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00048.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5076,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00048.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/48"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5076,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/48",
+          "label": "22b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00049.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 4908,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00049.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/49"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 4908,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/49",
+          "label": "23a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00050.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5019,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00050.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/50"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5019,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/50",
+          "label": "23b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00051.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5103,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00051.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/51"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5103,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/51",
+          "label": "24a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00052.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5142,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00052.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/52"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5142,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/52",
+          "label": "24b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00053.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5172,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00053.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/53"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5172,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/53",
+          "label": "25a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00054.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5251,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00054.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/54"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5251,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/54",
+          "label": "25b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00055.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5115,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00055.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/55"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5115,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/55",
+          "label": "unnumbered_ia",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00056.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5245,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00056.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/56"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5245,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/56",
+          "label": "unnumbered_ib",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00057.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5141,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00057.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/57"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5141,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/57",
+          "label": "26a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00058.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5271,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00058.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/58"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5271,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/58",
+          "label": "26b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00059.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5106,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00059.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/59"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5106,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/59",
+          "label": "27a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00060.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5231,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00060.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/60"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5231,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/60",
+          "label": "27b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00061.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5056,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00061.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/61"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5056,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/61",
+          "label": "28a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00062.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5266,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00062.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/62"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5266,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/62",
+          "label": "28b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00063.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5070,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00063.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/63"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5070,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/63",
+          "label": "29a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00064.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5056,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00064.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/64"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5056,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/64",
+          "label": "29b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00065.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5070,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00065.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/65"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5070,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/65",
+          "label": "30a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00066.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5094,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00066.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/66"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5094,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/66",
+          "label": "30b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00067.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5161,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00067.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/67"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5161,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/67",
+          "label": "31a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00068.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5090,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00068.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/68"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5090,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/68",
+          "label": "31b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00069.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5074,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00069.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/69"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5074,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/69",
+          "label": "32a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00070.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5185,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00070.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/70"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5185,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/70",
+          "label": "32b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00071.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5189,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00071.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/71"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5189,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/71",
+          "label": "33a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00072.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5246,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00072.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/72"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5246,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/72",
+          "label": "33b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00073.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5168,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00073.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/73"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5168,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/73",
+          "label": "34a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00074.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5136,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00074.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/74"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5136,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/74",
+          "label": "34b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00075.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5204,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00075.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/75"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5204,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/75",
+          "label": "35a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00076.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5194,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00076.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/76"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5194,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/76",
+          "label": "35b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00077.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5196,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00077.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/77"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5196,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/77",
+          "label": "36a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00078.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5171,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00078.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/78"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5171,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/78",
+          "label": "36b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00079.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5120,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00079.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/79"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5120,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/79",
+          "label": "37a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00080.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5057,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00080.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/80"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5057,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/80",
+          "label": "37b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00081.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5133,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00081.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/81"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5133,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/81",
+          "label": "38a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00082.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5093,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00082.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/82"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5093,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/82",
+          "label": "38b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00083.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5106,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00083.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/83"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5106,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/83",
+          "label": "38Aa",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00084.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5116,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00084.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/84"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5116,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/84",
+          "label": "38Ab",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00085.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5149,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00085.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/85"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5149,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/85",
+          "label": "39a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00086.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5148,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00086.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/86"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5148,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/86",
+          "label": "39b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00087.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5114,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00087.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/87"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5114,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/87",
+          "label": "40a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00088.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5208,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00088.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/88"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5208,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/88",
+          "label": "40b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00089.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5169,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00089.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/89"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5169,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/89",
+          "label": "41a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00090.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5178,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00090.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/90"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5178,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/90",
+          "label": "41b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00091.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5175,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00091.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/91"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5175,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/91",
+          "label": "42a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00092.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5224,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00092.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/92"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5224,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/92",
+          "label": "42b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00093.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5170,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00093.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/93"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5170,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/93",
+          "label": "43a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00094.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5226,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00094.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/94"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5226,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/94",
+          "label": "43b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00095.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5149,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00095.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/95"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5149,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/95",
+          "label": "44a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00096.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5188,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00096.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/96"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5188,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/96",
+          "label": "44b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00097.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5180,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00097.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/97"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5180,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/97",
+          "label": "45a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00098.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5238,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00098.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/98"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5238,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/98",
+          "label": "45b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00099.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5199,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00099.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/99"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5199,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/99",
+          "label": "46a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00100.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5184,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00100.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/100"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5184,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/100",
+          "label": "46b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00101.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5152,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00101.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/101"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5152,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/101",
+          "label": "47a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00102.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5200,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00102.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/102"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5200,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/102",
+          "label": "47b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00103.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5143,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00103.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/103"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5143,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/103",
+          "label": "48a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00104.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5191,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00104.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/104"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5191,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/104",
+          "label": "48b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00105.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5169,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00105.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/105"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5169,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/105",
+          "label": "49a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00106.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5145,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00106.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/106"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5145,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/106",
+          "label": "49b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00107.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5155,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00107.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/107"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5155,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/107",
+          "label": "50a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00108.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5225,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00108.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/108"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5225,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/108",
+          "label": "50b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00109.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5147,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00109.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/109"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5147,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/109",
+          "label": "51a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00110.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5189,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00110.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/110"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5189,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/110",
+          "label": "51b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00111.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5149,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00111.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/111"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5149,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/111",
+          "label": "52a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00112.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5160,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00112.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/112"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5160,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/112",
+          "label": "52b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00113.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5198,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00113.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/113"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5198,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/113",
+          "label": "53a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00114.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5191,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00114.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/114"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5191,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/114",
+          "label": "53b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00115.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5133,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00115.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/115"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5133,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/115",
+          "label": "54a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00116.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5208,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00116.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/116"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5208,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/116",
+          "label": "54b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00117.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5139,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00117.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/117"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5139,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/117",
+          "label": "55a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00118.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5208,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00118.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/118"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5208,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/118",
+          "label": "55b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00119.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5166,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00119.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/119"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5166,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/119",
+          "label": "56a",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00120.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5059,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00120.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/120"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5059,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/120",
+          "label": "56b",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00121.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 4919,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00121.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/121"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 4919,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/121",
+          "label": "iia",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00122.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5299,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00122.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/122"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5299,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/122",
+          "label": "iib",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00123.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5256,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00123.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/123"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5256,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/123",
+          "label": "Back_paste-down",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00124.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 5266,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00124.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/124"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 5266,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/124",
+          "label": "Back_cover",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00125.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 6400,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00125.jp2",
+                "height": 1080
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/125"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 6400,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/125",
+          "label": "Head",
+          "height": 1080
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00126.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 6400,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00126.jp2",
+                "height": 1048
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/126"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 6400,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/126",
+          "label": "Tail",
+          "height": 1048
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00127.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 848,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00127.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/127"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 848,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/127",
+          "label": "Fore_edge",
+          "height": 6400
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00128.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 850,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00128.jp2",
+                "height": 6400
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/128"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 850,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/128",
+          "label": "Spine",
+          "height": 6400
+        }
+      ],
+      "@type": "sc:Sequence",
+      "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/sequence",
+      "label": "Current Page Order"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "seeAlso": "https://services.digitalcollections.manchester.ac.uk/v1/metadata/tei/MS-GASTER-HEBREW-00118/"
+}
