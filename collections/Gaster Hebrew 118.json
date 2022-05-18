@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Gaster Hebrew 118",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-multistoryboard annotationurl='https://uom-mde.github.io/annonatate/annotations/ms-gaster-hebrew-00118-000-00006-jp2-list.json'></iiif-multistoryboard>",
+            "title": "folio 1b",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
