@@ -3,32 +3,32 @@ canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-A
 order: 3
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Aramaic paraphrase of the verse",
-            "purpose": "describing",
+            "created": "2022-05-16T17:10:13.559Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2022-05-16T17:10:13.559Z",
-            "modified": "2022-05-16T17:10:26.010Z"
+            "modified": "2022-05-18T14:48:55.683Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Aramaic paraphrase of the verse"
         }
     ],
+    "id": "ec7d346b-5db1-425b-bb3e-00cb6f4ca564.json",
+    "motivation": "commenting",
     "target": {
-        "source": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013/canvas/220",
+        "dcterms:isPartOf": {
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013",
+            "type": "Manifest"
+        },
         "selector": {
             "type": "SvgSelector",
             "value": "<svg><polygon points=\"339.043701171875,2684.632080078125 3897.741943359375,2663.821044921875 3918.552978515625,3080.04296875 2309.161376953125,3093.9169921875 2316.098388671875,2913.55419921875 339.043701171875,2920.4912109375\"></polygon></svg>"
         },
-        "dcterms:isPartOf": {
-            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013",
-            "type": "Manifest"
-        }
+        "source": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013/canvas/220"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "ec7d346b-5db1-425b-bb3e-00cb6f4ca564.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
