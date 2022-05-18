@@ -1,0 +1,30 @@
+---
+canvas: "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00019.jp2/info.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Recipe no. 172: cure for worms in the finger",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2022-05-18T15:54:52.163Z",
+            "modified": "2022-05-18T15:55:03.939Z"
+        }
+    ],
+    "target": {
+        "source": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118-000-00019.jp2/info.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"2653.202880859375\" cy=\"3802.33154296875\" rx=\"2441.202880859375\" ry=\"711.490478515625\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "63d29d88-e49d-4643-a313-d39fc182916b.json",
+    "motivation": "commenting"
+}
