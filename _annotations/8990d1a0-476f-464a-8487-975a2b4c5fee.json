@@ -3,32 +3,32 @@ canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-A
 order: 1
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "First word of the weekly parashah",
-            "purpose": "describing",
+            "created": "2022-05-16T17:07:57.953Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2022-05-16T17:07:57.953Z",
-            "modified": "2022-05-16T17:08:09.722Z"
+            "modified": "2022-05-18T14:48:48.348Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "First word of the weekly parashah"
         }
     ],
+    "id": "8990d1a0-476f-464a-8487-975a2b4c5fee.json",
+    "motivation": "commenting",
     "target": {
-        "source": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013/canvas/220",
+        "dcterms:isPartOf": {
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013",
+            "type": "Manifest"
+        },
         "selector": {
             "type": "SvgSelector",
             "value": "<svg><polygon points=\"1043.5,2316.9 1882.7,2325.3 1888.2,2506.5 1043.5,2509.3\"></polygon></svg>"
         },
-        "dcterms:isPartOf": {
-            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013",
-            "type": "Manifest"
-        }
+        "source": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013/canvas/220"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "8990d1a0-476f-464a-8487-975a2b4c5fee.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
