@@ -1,0 +1,31 @@
+---
+canvas: "https://image.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00021-000-00001.jp2/info.json"
+order: 4
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The Manchester Ship Canal",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2022-05-19T09:03:10.564Z",
+            "modified": "2022-05-19T09:03:13.716Z"
+        }
+    ],
+    "target": {
+        "source": "https://image.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00021-000-00001.jp2/info.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=318.848388671875,852.3494262695312,6880.814208984375,2081.5480346679688"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c53ba873-69d5-49f7-b272-95a569901700.json",
+    "motivation": "commenting"
+}
