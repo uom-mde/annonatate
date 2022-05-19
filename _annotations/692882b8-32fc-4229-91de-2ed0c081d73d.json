@@ -3,32 +3,32 @@ canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-A
 order: 4
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Verse from Isiah in Hebrew",
-            "purpose": "commenting",
+            "created": "2022-05-19T09:22:32.782Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2022-05-19T09:22:32.782Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Verse from Isiah in Hebrew"
         }
     ],
+    "id": "692882b8-32fc-4229-91de-2ed0c081d73d.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013/canvas/220",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=519.2440795898438,2501.243896484375,2210.6441040039062,187.3427734375"
+            "value": "xywh=519.2440795898438,2501.243896484375,2202.8635864257812,171.6337890625"
         },
         "dcterms:isPartOf": {
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-ADD-00013",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "692882b8-32fc-4229-91de-2ed0c081d73d.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
