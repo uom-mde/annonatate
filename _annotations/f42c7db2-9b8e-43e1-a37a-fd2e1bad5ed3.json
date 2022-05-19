@@ -1,0 +1,31 @@
+---
+canvas: "https://image.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00021-000-00001.jp2/info.json"
+order: 5
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Cross section of the canal",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2022-05-19T09:04:16.771Z",
+            "modified": "2022-05-19T09:04:25.013Z"
+        }
+    ],
+    "target": {
+        "source": "https://image.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00021-000-00001.jp2/info.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=54.20168685913086,3279.973876953125,7878.328586578369,580.18701171875"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f42c7db2-9b8e-43e1-a37a-fd2e1bad5ed3.json",
+    "motivation": "commenting"
+}
