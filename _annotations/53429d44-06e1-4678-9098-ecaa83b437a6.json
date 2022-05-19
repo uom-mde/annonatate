@@ -1,0 +1,31 @@
+---
+canvas: "https://image.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00021-000-00001.jp2/info.json"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Liverpool",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2022-05-19T09:02:42.676Z",
+            "modified": "2022-05-19T09:02:43.916Z"
+        }
+    ],
+    "target": {
+        "source": "https://image.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00021-000-00001.jp2/info.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=94.91656494140625,53.31996154785156,1251.9824829101562,1277.429183959961"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "53429d44-06e1-4678-9098-ecaa83b437a6.json",
+    "motivation": "commenting"
+}
