@@ -1,0 +1,128 @@
+---
+---
+{
+  "viewingDirection": "left-to-right",
+  "metadata": [
+    {
+      "label": "Language(s)",
+      "value": "English"
+    },
+    {
+      "label": "Physical Location",
+      "value": "Main Library Special Collections"
+    },
+    {
+      "label": "Note(s)",
+      "value": "<p>Route of the Manchester Ship canal coloured in red.</p>"
+    },
+    {
+      "label": "Extent",
+      "value": "1 map; map: 450 x 920 mm; sheet: 490 x 950 mm."
+    },
+    {
+      "label": "Classmark",
+      "value": "C17:41 (21)"
+    },
+    {
+      "label": "Subject(s)",
+      "value": "Warrington (England); Stockport (England); Liverpool (England); Salford (Greater Manchester, England); Manchester (England); Manchester Ship Canal Co."
+    },
+    {
+      "label": "Scale",
+      "value": "Vertical scale for section: 9.5 cm. = 500 feet. Scale for plan and horizontal scale for section: 12.6 cm. = 5 miles."
+    },
+    {
+      "label": "Abstract",
+      "value": "<p style='text-align: justify;'> A general plan of Manchester Ship Canal produced 'To accompany Mr. E. Leader Williams' paper read at the International Conference on Inland Navigation'. </p>"
+    },
+    {
+      "label": "Collection",
+      "value": "Map Collection (Flat)"
+    },
+    {
+      "label": "Title",
+      "value": "Manchester Ship Canal: general plan"
+    },
+    {
+      "label": "Funding",
+      "value": ""
+    },
+    {
+      "label": "Format",
+      "value": "Maps"
+    },
+    {
+      "label": "Material",
+      "value": "Paper"
+    },
+    {
+      "label": "Data Source(s)",
+      "value": "Description derived from <a target='_blank' class='externalLink uom-purple' href='http://man.ac.uk/0OeVUQ'>University of Manchester Library Search.</a>"
+    },
+    {
+      "label": "Place of Publication",
+      "value": "England, Manchester"
+    },
+    {
+      "label": "Date of Publication",
+      "value": "1890"
+    },
+    {
+      "label": "Publisher",
+      "value": "Manchester Ship Canal Co."
+    }
+  ],
+  "@type": "sc:Manifest",
+  "attribution": "Provided by The University of Manchester. <p>Zooming image \u00a9 University of Manchester Library, All rights reserved.</p>  Images and Metadata made available for download are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).  Images and Metadata made available for download are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).",
+  "structures": [
+    {
+      "canvases": [
+        "https://www.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00021/canvas/1"
+      ],
+      "@type": "sc:Range",
+      "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00021/range/DOCUMENT",
+      "label": "Manchester Ship Canal: general plan"
+    }
+  ],
+  "description": "<p style='text-align: justify;'> A general plan of Manchester Ship Canal produced 'To accompany Mr. E. Leader Williams' paper read at the International Conference on Inland Navigation'. </p>",
+  "logo": "https://www.digitalcollections.manchester.ac.uk/mirador-ui/uom_logo.png",
+  "@id": "https://uom-mde.github.io/annonatate/manifests/iiif/PR-C-00017-00041-00021?/manifest.json",
+  "label": "Manchester Ship Canal: general plan (C17:41 (21))",
+  "sequences": [
+    {
+      "canvases": [
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00021-000-00001.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 8002,
+                "@id": "https://image.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00021-000-00001.jp2",
+                "height": 4000
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00021/canvas/1"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 8002,
+          "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00021/canvas/1",
+          "label": "1",
+          "height": 4000
+        }
+      ],
+      "@type": "sc:Sequence",
+      "@id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00021/sequence",
+      "label": "Current Page Order"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "seeAlso": "https://services.digitalcollections.manchester.ac.uk/v1/metadata/tei/PR-C-00017-00041-00021/"
+}
