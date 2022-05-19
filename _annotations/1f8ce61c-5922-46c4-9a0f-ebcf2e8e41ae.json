@@ -1,0 +1,31 @@
+---
+canvas: "https://image.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00021-000-00001.jp2/info.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Manchester and Salford",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2022-05-19T09:02:23.732Z",
+            "modified": "2022-05-19T09:02:26.652Z"
+        }
+    ],
+    "target": {
+        "source": "https://image.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00021-000-00001.jp2/info.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=6074.9140625,404.48577880859375,1883.06298828125,1481.0036010742188"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1f8ce61c-5922-46c4-9a0f-ebcf2e8e41ae.json",
+    "motivation": "commenting"
+}
