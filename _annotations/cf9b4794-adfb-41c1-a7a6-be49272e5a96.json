@@ -1,0 +1,34 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-02033/canvas/46"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Aramaic and Judeo-Arabic translation in alternating verses",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2022-06-14T10:19:46.080Z",
+            "modified": "2022-06-14T10:19:59.831Z"
+        }
+    ],
+    "target": {
+        "source": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-02033/canvas/46",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"427.6,434.6 3951.2,429 3951.2,4144 2532.7,4149.6 2527.1,1273.3 427.6,1278.9\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-02033?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-02033",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cf9b4794-adfb-41c1-a7a6-be49272e5a96.json",
+    "motivation": "commenting"
+}
