@@ -1,0 +1,31 @@
+---
+canvas: "https://image.digitalcollections.manchester.ac.uk/iiif/PR-JAPANESE-00044-000-00001.jp2/info.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Test comment",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2022-11-09T10:51:59.842Z",
+            "modified": "2022-11-09T10:52:01.279Z"
+        }
+    ],
+    "target": {
+        "source": "https://image.digitalcollections.manchester.ac.uk/iiif/PR-JAPANESE-00044-000-00001.jp2/info.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1949.8936767578125,2137.68798828125,1612.2178955078125,1348.86767578125"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "63461120-d9ff-4759-8e0e-8b5546a34c9a.json",
+    "motivation": "commenting"
+}
