@@ -7,14 +7,14 @@ order: 3
     "body": [
         {
             "type": "TextualBody",
-            "value": "Some animals in the drawing can be easily recognised, others are more ambiguous. Perhaps the ambiguity noted by Kraus (2004, 201), referring to the actually extant bronze heads, is true for some elements of this drawing as well. \"One of the heads, a tiger, looks remarkably like a bear. The bear is not in the CHinese zodiac and one imagines that Castiglione had little experience with tigers as he was completing the fountain\".",
+            "value": "Some animals in the drawing can be easily recognised, others are more ambiguous. Perhaps the ambiguity noted by Kraus (2004, 201), referring to the actually extant bronze heads, is true for some elements of this drawing as well. \n\n\"One of the heads, a tiger, looks remarkably like a bear. The bear is not in the Chinese zodiac and one imagines that Castiglione had little experience with tigers as he was completing the fountain\".",
             "purpose": "commenting",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
             "created": "2023-01-11T12:41:58.381Z",
-            "modified": "2023-01-11T12:43:59.724Z"
+            "modified": "2023-01-11T12:44:40.279Z"
         }
     ],
     "target": {
