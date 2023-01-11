@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Qing",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://github.com/uom-mde/annonatate/blob/main/_annotations/0052c7fb-53b1-41d3-8090-264378e471ce.json'></iiif-storyboard>",
+            "title": "Chinese Crawford 457",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
