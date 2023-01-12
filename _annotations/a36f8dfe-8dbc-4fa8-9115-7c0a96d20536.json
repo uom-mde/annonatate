@@ -1,0 +1,35 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~438461~242807/canvas/c1/page13"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "A crucial label, reading (Yumen xian), 'Yumen Country', close to Yumen Pass (lit. Jade Gate Pass). This is a significant place in today's Gansu province. When the Han dynasty (202 BCE - 220 CE) built one of China's many fortifications (later the 'Great Wall'), they constructed a famous frontier pass here through which one route of the Silk Roads passed.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-01-12T10:39:15.583Z",
+            "modified": "2023-01-12T10:41:13.552Z"
+        }
+    ],
+    "target": {
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~438461~242807/canvas/c1/page13",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1945.2498779296875,4747.77587890625,593.7130126953125,547.44970703125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~438461~242807/manifest?manifest=https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~438461~242807/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a36f8dfe-8dbc-4fa8-9115-7c0a96d20536.json",
+    "motivation": "commenting"
+}
