@@ -1,0 +1,35 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~435780~230922/canvas/c1"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The first four characters of this sutra: (rushi wowen), 'Thus have I heard'. One of the most foreign aspects of Indian Buddhist scriptures, when they were introduced to China, was their origin as oral texts. \n\nThe Buddhists were apparently the first group in India to make the move of writing down sacred texts. The 'Thus have I heard' formula evokes the authority of a master-to-disciple lineage of transmission.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-01-12T16:27:50.039Z",
+            "modified": "2023-01-12T16:30:24.608Z"
+        }
+    ],
+    "target": {
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~435780~230922/canvas/c1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2454.576904296875,660.0978393554688,268.584228515625,833.3003540039062"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~435780~230922/manifest?manifest=https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~435780~230922/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "923bfc7b-5d8a-4b21-b569-3998f416865c.json",
+    "motivation": "commenting"
+}
