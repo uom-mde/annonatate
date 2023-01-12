@@ -1,0 +1,35 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439600~269906/canvas/c1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The map's title. Transliteration: Tianwen zongtu. Translation: \"Complete Map of the Heavenly Patterns\". The map depicts the whole night sky, with labels for all Twenty-Eight Mansions.\n\nThe Mansions are a traditional Chinese division of the night sky, comparable to the Western zodiac.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-01-12T09:22:57.136Z",
+            "modified": "2023-01-12T09:25:03.817Z"
+        }
+    ],
+    "target": {
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439600~269906/canvas/c1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3365.127197265625,975.3855590820312,462.633544921875,1079.4782104492188"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439600~269906/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ec57b477-075b-485d-8a2e-959253513278.json",
+    "motivation": "commenting"
+}
