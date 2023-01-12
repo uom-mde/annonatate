@@ -1,0 +1,35 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~438461~242807/canvas/c1/page13"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "This symbol might represent parts of the 'Great Wall'. The interpretation of this symbol as a wall is corroborated by the labels to the left of it, referring to 'fortified walls' (bao). \n\nOne of them, Chijin bao 'Pure Gold Wall', is associated with the Jade Gate Pass. Thus, this symbol might represent parts of the Han wall- or a reinforcement by a later dynasty.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-01-12T10:35:22.770Z",
+            "modified": "2023-01-12T10:37:51.687Z"
+        }
+    ],
+    "target": {
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~438461~242807/canvas/c1/page13",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3317.729248046875,4524.169921875,485.76513671875,763.34521484375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~438461~242807/manifest?manifest=https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~438461~242807/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "032a57c1-df04-407e-9737-db6bf7bbe114.json",
+    "motivation": "commenting"
+}
