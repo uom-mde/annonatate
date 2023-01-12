@@ -15,6 +15,12 @@
             "title": "Chinese Crawford 444",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard annotationurl='https://uom-mde.github.io/annonatate/annotations/manchester-91-1-336931-202836-c1-list.json'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
