@@ -1,0 +1,35 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439623~269893/canvas/c1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "This woodblock-printed illustration depicts Sun Wukong, the Monkey King.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-01-12T16:19:40.247Z",
+            "modified": "2023-01-12T16:19:58.374Z"
+        }
+    ],
+    "target": {
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439623~269893/canvas/c1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1440.074951171875,1986.325439453125,2467.378662109375,3204.165283203125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439623~269893/manifest?manifest=https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439623~269893/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f18c9ca3-15c7-4085-9127-954777c6d131.json",
+    "motivation": "commenting"
+}
