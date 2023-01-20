@@ -1,0 +1,34 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~336931~202836/canvas/c1"
+order: 17
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The animal heads would mark the passing hours by spouting, in turn, into the fountain.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-01-20T16:39:49.531Z"
+        }
+    ],
+    "target": {
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~336931~202836/canvas/c1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3548.940673828125,2688.548583984375,2098.492431640625,1134.4248046875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~336931~202836/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9fa2154a-0960-4d96-b1a8-ee46b6d32428.json",
+    "motivation": "commenting"
+}
