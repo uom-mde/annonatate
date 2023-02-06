@@ -3,33 +3,33 @@ canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~33693
 order: 15
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Pig",
-            "purpose": "commenting",
+            "created": "2023-01-11T12:50:10.432Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-01-11T12:50:10.432Z",
-            "modified": "2023-01-11T12:50:10.854Z"
+            "modified": "2023-02-06T16:08:23.673Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Dog"
         }
     ],
+    "id": "0052c7fb-53b1-41d3-8090-264378e471ce.json",
+    "motivation": "commenting",
     "target": {
-        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~336931~202836/canvas/c1",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1999.8231201171875,3070.481689453125,207.9932861328125,268.983642578125"
-        },
         "dcterms:isPartOf": {
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~336931~202836/manifest",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1999.8231201171875,3070.481689453125,207.9932861328125,268.983642578125"
+        },
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~336931~202836/canvas/c1"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "0052c7fb-53b1-41d3-8090-264378e471ce.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
