@@ -3,33 +3,33 @@ canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~33693
 order: 3
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Some animals in the drawing can be easily recognised, others are more ambiguous. Perhaps the ambiguity noted by Kraus (2004, 201), referring to the actually extant bronze heads, is true for some elements of this drawing as well. \n\n\"One of the heads, a tiger, looks remarkably like a bear. The bear is not in the Chinese zodiac and one imagines that Castiglione had little experience with tigers as he was completing the fountain\".",
-            "purpose": "commenting",
+            "created": "2023-01-11T12:41:58.381Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-01-11T12:41:58.381Z",
-            "modified": "2023-01-11T12:44:40.279Z"
+            "modified": "2023-02-06T16:07:57.027Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Some animals in the drawing can be easily recognised, others are more ambiguous. "
         }
     ],
+    "id": "a8f423ad-fc4f-4b3d-a2ac-e485b7a5cd57.json",
+    "motivation": "commenting",
     "target": {
-        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~336931~202836/canvas/c1",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=4581.75537109375,2867.179443359375,1582.62548828125,775.67431640625"
-        },
         "dcterms:isPartOf": {
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~336931~202836/manifest",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=4581.75537109375,2867.179443359375,1582.62548828125,775.67431640625"
+        },
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~336931~202836/canvas/c1"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "a8f423ad-fc4f-4b3d-a2ac-e485b7a5cd57.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
