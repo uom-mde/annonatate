@@ -3,33 +3,33 @@ canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~43578
 order: 1
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Heart-shaped illustration: the heart evokes the leaf of the Bodhi tree under which the historical Buddah is said to have found enlightenment. Note that there doesn't seem to be any direct relation between this particular image and this particular text.",
-            "purpose": "commenting",
+            "created": "2023-01-12T16:26:04.751Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-01-12T16:26:04.751Z",
-            "modified": "2023-01-12T16:27:07.503Z"
+            "modified": "2023-01-12T16:27:07.503Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Heart-shaped illustration: the heart evokes the leaf of the Bodhi tree under which the historical Buddah is said to have found enlightenment. Note that there doesn't seem to be any direct relation between this particular image and this particular text."
         }
     ],
+    "id": "facbb864-ce19-4421-9731-661862712a5f.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~435780~230922/canvas/c1",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3418.72607421875,660.0978393554688,2527.44775390625,3615.5593872070312"
+            "value": "xywh=3418.72607421875,842.597412109375,2524.00390625,3433.059814453125"
         },
         "dcterms:isPartOf": {
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~435780~230922/manifest?manifest=https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~435780~230922/manifest",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "facbb864-ce19-4421-9731-661862712a5f.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
