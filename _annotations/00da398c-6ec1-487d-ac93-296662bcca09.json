@@ -3,33 +3,33 @@ canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068/canv
 order: 3
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Schematic drawing of a Chinese constellation.",
-            "purpose": "commenting",
+            "created": "2023-02-09T17:58:57.836Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-02-09T17:58:57.836Z",
-            "modified": "2023-02-09T17:59:09.566Z"
+            "modified": "2023-02-09T17:59:09.566Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Schematic drawing of a Chinese constellation."
         }
     ],
+    "id": "00da398c-6ec1-487d-ac93-296662bcca09.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068/canvas/59",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=893.3078002929688,332.707275390625,1962.3367309570312,763.34521484375"
+            "value": "xywh=893.3078002929688,332.707275390625,1973.0242309570312,779.5069580078125"
         },
         "dcterms:isPartOf": {
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "00da398c-6ec1-487d-ac93-296662bcca09.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
