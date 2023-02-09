@@ -24,7 +24,7 @@ order: 3
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=893.3078002929688,332.707275390625,1973.0242309570312,779.5069580078125"
+            "value": "xywh=1008.0872802734375,332.707275390625,1858.2447509765625,775.651611328125"
         },
         "dcterms:isPartOf": {
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068",
