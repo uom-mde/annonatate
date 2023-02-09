@@ -1,0 +1,35 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068/canvas/59"
+order: 5
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "This note, 'Pegasus', tells us that this Chinese asterism is contained within (or overlaps with) the European constellation Pegasus.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-02-09T18:02:21.258Z",
+            "modified": "2023-02-09T18:03:02.768Z"
+        }
+    ],
+    "target": {
+        "source": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068/canvas/59",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=302.5711364746094,337.3030700683594,674.6739196777344,366.2515563964844"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8ed4906a-158d-42aa-9e35-658344b45f5c.json",
+    "motivation": "commenting"
+}
