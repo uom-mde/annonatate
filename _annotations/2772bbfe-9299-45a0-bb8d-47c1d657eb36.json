@@ -3,33 +3,33 @@ canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068/canv
 order: 4
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "The name of this constellation in Chinese characters and in French translation ('ting che', modern Pinyin would be 'Tengshe'). 'Tengshe' means 'Flying serpent': this is an asterism (smaller group of stars) in the larger Chinese constellation 'Encampment'.",
-            "purpose": "commenting",
+            "created": "2023-02-09T17:59:47.379Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-02-09T17:59:47.379Z",
-            "modified": "2023-02-09T18:01:10.807Z"
+            "modified": "2023-02-09T18:01:10.807Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "The name of this constellation in Chinese characters and in French translation ('ting che', modern Pinyin would be 'Tengshe'). 'Tengshe' means 'Flying serpent': this is an asterism (smaller group of stars) in the larger Chinese constellation 'Encampment'."
         }
     ],
+    "id": "2772bbfe-9299-45a0-bb8d-47c1d657eb36.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068/canvas/59",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1701.05224609375,768.0887451171875,389.38330078125,300.7117919921875"
+            "value": "xywh=1701.05224609375,780.6602172851562,421.210693359375,288.14031982421875"
         },
         "dcterms:isPartOf": {
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "2772bbfe-9299-45a0-bb8d-47c1d657eb36.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
