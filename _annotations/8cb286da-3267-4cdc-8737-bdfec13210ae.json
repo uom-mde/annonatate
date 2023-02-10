@@ -1,0 +1,23 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439658~270042/canvas/c1/page65"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439658~270042/canvas/c1/page65",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3183.26318359375,3473.28515625,788.1904296875,1456.43896484375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439658~270042/manifest?manifest=https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439658~270042/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8cb286da-3267-4cdc-8737-bdfec13210ae.json",
+    "motivation": "commenting"
+}
