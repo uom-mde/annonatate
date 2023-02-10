@@ -1,0 +1,35 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~442548~282730/canvas/c1"
+order: 11
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "'lieutenant' (Manchu)",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-02-10T12:34:40.956Z",
+            "modified": "2023-02-10T12:34:50.781Z"
+        }
+    ],
+    "target": {
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~442548~282730/canvas/c1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=5042.12939453125,1116.7310791015625,226.05224609375,592.62353515625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~442548~282730/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "27c480fc-d7d8-49ce-95c3-d662446bb970.json",
+    "motivation": "commenting"
+}
