@@ -1,0 +1,31 @@
+---
+canvas: "https://iiif.wellcomecollection.org/image/L0031300/full/880%2C/0/default.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Testing double feature",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-02-10T14:19:45.589Z",
+            "modified": "2023-02-10T14:19:50.920Z"
+        }
+    ],
+    "target": {
+        "source": "https://iiif.wellcomecollection.org/image/L0031300/full/880%2C/0/default.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=45.1502571105957,49.83583450317383,334.6184196472168,299.8180961608887"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8fae1e5f-7089-4389-a805-f140bf368d6e.json",
+    "motivation": "commenting"
+}
