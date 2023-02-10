@@ -3,33 +3,33 @@ canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~44254
 order: 1
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "The middle part of this bilingual scroll, where the Manchu and Chinese texts 'meet'. ",
-            "purpose": "commenting",
+            "created": "2023-02-10T12:24:16.123Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-02-10T12:24:16.123Z",
-            "modified": "2023-02-10T12:24:41.705Z"
+            "modified": "2023-02-10T12:24:41.705Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "The middle part of this bilingual scroll, where the Manchu and Chinese texts 'meet'. "
         }
     ],
+    "id": "e6646ab5-a05f-4121-acdc-af3ee64f74e9.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~442548~282730/canvas/c1",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3361.796875,252.9450225830078,5294.580078125,2713.952926635742"
+            "value": "xywh=3251.021728515625,246.1243896484375,5506.715576171875,2802.2337646484375"
         },
         "dcterms:isPartOf": {
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~442548~282730/manifest",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "e6646ab5-a05f-4121-acdc-af3ee64f74e9.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
