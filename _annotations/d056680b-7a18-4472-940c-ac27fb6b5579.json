@@ -20,16 +20,16 @@ order: 2
     "id": "d056680b-7a18-4472-940c-ac27fb6b5579.json",
     "motivation": "commenting",
     "target": {
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~442548~282730/canvas/c1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4716.75390625,538.3631591796875,1441.8466796875,1437.77392578125"
+        },
         "dcterms:isPartOf": {
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~442548~282730/manifest",
             "type": "Manifest"
-        },
-        "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "xywh=4783.95849609375,593.3488159179688,1372.60595703125,1293.1819458007812"
-        },
-        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~442548~282730/canvas/c1"
+        }
     },
     "type": "Annotation"
 }
