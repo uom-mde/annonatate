@@ -1,0 +1,31 @@
+---
+canvas: "https://iiif.wellcomecollection.org/image/L0031300/full/full/0/default.jpg"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Note the similarities in the poses",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-02-10T14:51:51.011Z",
+            "modified": "2023-02-10T14:52:00.530Z"
+        }
+    ],
+    "target": {
+        "source": "https://iiif.wellcomecollection.org/image/L0031300/full/full/0/default.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1847.326171875,1259.6915283203125,717.437744140625,1032.5028076171875"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f53305d8-719a-4a82-abc1-b092a7e03dae.json",
+    "motivation": "commenting"
+}
