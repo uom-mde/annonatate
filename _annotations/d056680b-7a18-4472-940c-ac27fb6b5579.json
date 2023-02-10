@@ -3,33 +3,33 @@ canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~44254
 order: 2
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "The Manchu text",
-            "purpose": "commenting",
+            "created": "2023-02-10T12:25:21.007Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-02-10T12:25:21.007Z",
-            "modified": "2023-02-10T12:25:24.416Z"
+            "modified": "2023-02-10T12:28:10.010Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "The Manchu text, with thanks to Alice Crowther for the translations."
         }
     ],
+    "id": "d056680b-7a18-4472-940c-ac27fb6b5579.json",
+    "motivation": "commenting",
     "target": {
-        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~442548~282730/canvas/c1",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=4783.95849609375,593.3488159179688,1372.60595703125,1293.1819458007812"
-        },
         "dcterms:isPartOf": {
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~442548~282730/manifest",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=4783.95849609375,593.3488159179688,1372.60595703125,1293.1819458007812"
+        },
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~442548~282730/canvas/c1"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "d056680b-7a18-4472-940c-ac27fb6b5579.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
