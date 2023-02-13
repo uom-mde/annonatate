@@ -3,33 +3,33 @@ canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~43846
 order: 6
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Eventually, Shou gets rid of the tiger by 'brandishing' an agricultural tool as a weapon.",
-            "purpose": "commenting",
+            "created": "2023-02-13T17:06:08.174Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-02-13T17:06:08.174Z",
-            "modified": "2023-02-13T17:06:28.852Z"
+            "modified": "2023-02-13T17:06:28.852Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Eventually, Shou gets rid of the tiger by 'brandishing' an agricultural tool as a weapon."
         }
     ],
+    "id": "8c0f2ae7-24a7-4a1f-91db-24bab90dade3.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~438462~242808/canvas/c1/page40",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=438.6827697753906,2308.778076171875,1855.9307556152344,1079.75390625"
+            "value": "xywh=1149.2391357421875,2425.4365234375,721.1617431640625,963.095458984375"
         },
         "dcterms:isPartOf": {
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~438462~242808/manifest?manifest=https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~438462~242808/manifest",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "8c0f2ae7-24a7-4a1f-91db-24bab90dade3.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
