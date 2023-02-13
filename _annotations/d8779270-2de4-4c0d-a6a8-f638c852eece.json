@@ -1,0 +1,23 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/VS-CHDR-00046/canvas/7"
+order: 4
+---
+{
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": "https://www.digitalcollections.manchester.ac.uk/iiif/VS-CHDR-00046/canvas/7",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1723.8612060546875,1832.59912109375,782.6724853515625,801.76220703125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/VS-CHDR-00046",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d8779270-2de4-4c0d-a6a8-f638c852eece.json",
+    "motivation": "commenting"
+}
