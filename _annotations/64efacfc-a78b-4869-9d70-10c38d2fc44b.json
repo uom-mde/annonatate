@@ -3,21 +3,32 @@ canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/VS-CHDR-00046/canv
 order: 2
 ---
 {
-    "type": "Annotation",
-    "body": [],
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The Empress Xiaojingcheng",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-02-14T09:09:17.990Z"
+        }
+    ],
+    "id": "64efacfc-a78b-4869-9d70-10c38d2fc44b.json",
+    "motivation": "commenting",
     "target": {
-        "source": "https://www.digitalcollections.manchester.ac.uk/iiif/VS-CHDR-00046/canvas/7",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=883.9198608398438,1078.5609130859375,3168.8694458007812,4762.8487548828125"
-        },
         "dcterms:isPartOf": {
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/VS-CHDR-00046",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=883.9198608398438,1078.5609130859375,3168.8694458007812,4762.8487548828125"
+        },
+        "source": "https://www.digitalcollections.manchester.ac.uk/iiif/VS-CHDR-00046/canvas/7"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "64efacfc-a78b-4869-9d70-10c38d2fc44b.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
