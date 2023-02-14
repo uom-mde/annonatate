@@ -1,0 +1,19 @@
+---
+canvas: "https://iiif.wellcomecollection.org/image/L0031300/full/full/0/default.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": "https://iiif.wellcomecollection.org/image/L0031300/full/full/0/default.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=304.892822265625,460.2642822265625,1151.248046875,1038.4727783203125"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c8d552de-12c7-4187-8ee5-d9ef72d5201e.json",
+    "motivation": "commenting"
+}
