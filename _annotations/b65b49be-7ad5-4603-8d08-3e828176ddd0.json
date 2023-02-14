@@ -1,0 +1,23 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398/canvas/66"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398/canvas/66",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2185.89501953125,3462.654052734375,886.728271484375,1488.580322265625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b65b49be-7ad5-4603-8d08-3e828176ddd0.json",
+    "motivation": "commenting"
+}
