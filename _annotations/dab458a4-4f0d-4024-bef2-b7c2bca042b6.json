@@ -3,33 +3,33 @@ canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457/canv
 order: 12
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Rooster\nThose born in the year of the rooster are said to be hardworking and courageous. ",
-            "purpose": "commenting",
+            "created": "2023-02-15T16:20:12.093Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-02-15T16:20:12.093Z",
-            "modified": "2023-02-15T16:20:13.225Z"
+            "modified": "2023-02-15T16:20:13.225Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Rooster\nThose born in the year of the rooster are said to be hardworking and courageous. "
         }
     ],
+    "id": "dab458a4-4f0d-4024-bef2-b7c2bca042b6.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457/canvas/56",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=2225.25537109375,2999.5263671875,190,316.363525390625"
+            "value": "xywh=2213.817626953125,2999.5263671875,201.437744140625,312.23583984375"
         },
         "dcterms:isPartOf": {
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "dab458a4-4f0d-4024-bef2-b7c2bca042b6.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
