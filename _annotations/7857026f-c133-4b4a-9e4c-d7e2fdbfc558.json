@@ -3,33 +3,33 @@ canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457/canv
 order: 11
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Monkey\nThose born in the year of the monkey are said to be smart and curious.",
-            "purpose": "commenting",
+            "created": "2023-02-15T16:19:48.021Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-02-15T16:19:48.021Z",
-            "modified": "2023-02-15T16:19:49.444Z"
+            "modified": "2023-02-15T16:19:49.444Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Monkey\nThose born in the year of the monkey are said to be smart and curious."
         }
     ],
+    "id": "7857026f-c133-4b4a-9e4c-d7e2fdbfc558.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457/canvas/56",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=5542.5283203125,2974.98095703125,210.9091796875,326.363525390625"
+            "value": "xywh=5542.5283203125,2974.98095703125,218.5615234375,327.6904296875"
         },
         "dcterms:isPartOf": {
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "7857026f-c133-4b4a-9e4c-d7e2fdbfc558.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
