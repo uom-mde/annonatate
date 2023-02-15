@@ -3,33 +3,33 @@ canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457/canv
 order: 9
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Horse\nThose born in the year of the horse are said to be energetic and active.",
-            "purpose": "commenting",
+            "created": "2023-02-15T16:10:33.947Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-02-15T16:10:33.947Z",
-            "modified": "2023-02-15T16:10:34.985Z"
+            "modified": "2023-02-15T16:10:34.985Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Horse\nThose born in the year of the horse are said to be energetic and active."
         }
     ],
+    "id": "ca6a4953-c4ae-4561-b9a8-98b657e200ca.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457/canvas/56",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=5350.7099609375,2953.16259765625,184.54541015625,300"
+            "value": "xywh=5350.7099609375,2953.16259765625,190.3798828125,296.781494140625"
         },
         "dcterms:isPartOf": {
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "ca6a4953-c4ae-4561-b9a8-98b657e200ca.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
