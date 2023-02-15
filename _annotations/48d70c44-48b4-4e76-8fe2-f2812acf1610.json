@@ -3,33 +3,33 @@ canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457/canv
 order: 7
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Dragon\nThose born in the year of the dragon are said to be confident and enthusiastic.",
-            "purpose": "commenting",
+            "created": "2023-02-15T16:09:41.725Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-02-15T16:09:41.725Z",
-            "modified": "2023-02-15T16:09:43.105Z"
+            "modified": "2023-02-15T16:09:43.105Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Dragon\nThose born in the year of the dragon are said to be confident and enthusiastic."
         }
     ],
+    "id": "48d70c44-48b4-4e76-8fe2-f2812acf1610.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457/canvas/56",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=5172.5283203125,2944.98095703125,174.54541015625,289.0908203125"
+            "value": "xywh=5172.5283203125,2908.2734375,155.72607421875,325.79833984375"
         },
         "dcterms:isPartOf": {
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "48d70c44-48b4-4e76-8fe2-f2812acf1610.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
