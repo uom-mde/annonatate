@@ -3,32 +3,32 @@ canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457/canv
 order: 15
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "The European style fountain featured water pouring down like a miniature waterfall into a lower basin flanked by the 12 zodiac animals.",
-            "purpose": "commenting",
+            "created": "2023-02-15T16:23:34.715Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-02-15T16:23:34.715Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "The European style fountain featured water pouring down like a miniature waterfall into a lower basin flanked by the 12 zodiac animals."
         }
     ],
+    "id": "a1f938b3-ebdd-41df-a7f4-6d7c12162533.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457/canvas/56",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=2554.80078125,2244.5263671875,2898.181640625,1690.908935546875"
+            "value": "xywh=2602.246826171875,2244.5263671875,2850.735595703125,1683.26513671875"
         },
         "dcterms:isPartOf": {
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "a1f938b3-ebdd-41df-a7f4-6d7c12162533.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
