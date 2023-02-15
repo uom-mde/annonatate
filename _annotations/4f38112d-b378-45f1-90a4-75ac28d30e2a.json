@@ -3,33 +3,33 @@ canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457/canv
 order: 4
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Ox\nThose born in the year of the ox are said to be strong and dependable.",
-            "purpose": "commenting",
+            "created": "2023-02-15T16:07:32.422Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-02-15T16:07:32.422Z",
-            "modified": "2023-02-15T16:07:34.227Z"
+            "modified": "2023-02-15T16:07:34.227Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Ox\nThose born in the year of the ox are said to be strong and dependable."
         }
     ],
+    "id": "4f38112d-b378-45f1-90a4-75ac28d30e2a.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457/canvas/56",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=2935.25537109375,2926.799072265625,267.272705078125,308.181884765625"
+            "value": "xywh=2978.891845703125,2926.799072265625,175.454345703125,241.818115234375"
         },
         "dcterms:isPartOf": {
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "4f38112d-b378-45f1-90a4-75ac28d30e2a.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
