@@ -1,0 +1,35 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457/canvas/56"
+order: 9
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Horse\nThose born in the year of the horse are said to be energetic and active.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-02-15T16:10:33.947Z",
+            "modified": "2023-02-15T16:10:34.985Z"
+        }
+    ],
+    "target": {
+        "source": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457/canvas/56",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=5350.7099609375,2953.16259765625,184.54541015625,300"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ca6a4953-c4ae-4561-b9a8-98b657e200ca.json",
+    "motivation": "commenting"
+}
