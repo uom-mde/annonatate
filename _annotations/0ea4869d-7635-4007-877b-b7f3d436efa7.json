@@ -3,33 +3,33 @@ canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457/canv
 order: 13
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Dog\nThose born in the year of the dog are said to be honest and prudent.",
-            "purpose": "commenting",
+            "created": "2023-02-15T16:20:38.071Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-02-15T16:20:38.071Z",
-            "modified": "2023-02-15T16:20:39.314Z"
+            "modified": "2023-02-15T16:20:39.314Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Dog\nThose born in the year of the dog are said to be honest and prudent."
         }
     ],
+    "id": "0ea4869d-7635-4007-877b-b7f3d436efa7.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457/canvas/56",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=5773.4375,3000.435302734375,210,337.272705078125"
+            "value": "xywh=5761.9990234375,3000.435302734375,221.4384765625,334.05419921875"
         },
         "dcterms:isPartOf": {
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00457",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "0ea4869d-7635-4007-877b-b7f3d436efa7.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
