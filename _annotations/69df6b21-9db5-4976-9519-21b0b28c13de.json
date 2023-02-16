@@ -3,32 +3,32 @@ canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00462/canv
 order: 6
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Eventually, Shou gets rid of the tiger by 'brandishing' an agricultural tool as a weapon.",
-            "purpose": "commenting",
+            "created": "2023-02-16T18:30:45.920Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-02-16T18:30:45.920Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Eventually, Shou gets rid of the tiger by 'brandishing' an agricultural tool as a weapon."
         }
     ],
+    "id": "69df6b21-9db5-4976-9519-21b0b28c13de.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00462/canvas/41",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1104.1002197265625,2383.214111328125,713.472900390625,818.46533203125"
+            "value": "xywh=866.0770874023438,2358.5419921875,1040.3817749023438,843.137451171875"
         },
         "dcterms:isPartOf": {
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00462?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00462",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "69df6b21-9db5-4976-9519-21b0b28c13de.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
