@@ -1,0 +1,34 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00462/canvas/41"
+order: 5
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "But Shou quickly clutches his father's foot: he won't allow the tiger to carry away or eat his father.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-02-16T18:30:23.849Z"
+        }
+    ],
+    "target": {
+        "source": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00462/canvas/41",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1104.1002197265625,2679.1025390625,711.086669921875,524.963134765625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00462?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00462",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b845ea88-107c-49b8-ba70-cef06ec3eeac.json",
+    "motivation": "commenting"
+}
