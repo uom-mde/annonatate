@@ -1,0 +1,34 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00462/canvas/41"
+order: 4
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Unluckily, his father is attacked and killed by a tiger.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-02-16T18:29:57.593Z"
+        }
+    ],
+    "target": {
+        "source": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00462/canvas/41",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=338.1310729980469,2266.290283203125,1959.0676574707031,1014.1337890625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00462?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00462",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "03f2d4b4-602d-498f-95c7-bfa6f1816a21.json",
+    "motivation": "commenting"
+}
