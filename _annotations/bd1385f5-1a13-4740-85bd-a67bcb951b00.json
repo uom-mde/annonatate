@@ -24,7 +24,7 @@ order: 4
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=187.4954833984375,1307.4718017578125,1781.693603515625,2374.6949462890625"
+            "value": "xywh=187.4954833984375,1285.3646240234375,1783.019287109375,2396.8021240234375"
         },
         "dcterms:isPartOf": {
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439596~269896/manifest?manifest=https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439596~269896/manifest",
