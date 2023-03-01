@@ -1,0 +1,35 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-JAPANESE-00044/canvas/1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Example 1",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-03-01T10:48:53.121Z",
+            "modified": "2023-03-01T10:48:55.916Z"
+        }
+    ],
+    "target": {
+        "source": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-JAPANESE-00044/canvas/1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1258.9288330078125,1010.0830688476562,2374.8519287109375,1788.8495483398438"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-JAPANESE-00044",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9ecf47e6-3ad7-474e-bef5-117571612907.json",
+    "motivation": "commenting"
+}
