@@ -1,0 +1,34 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page9"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Commodo viverra maecenas accumsan lacus vel. Aliquet risus feugiat in ante metus dictum at. Turpis in eu mi bibendum neque egestas. Convallis convallis tellus id interdum velit laoreet id. Mauris in aliquam sem fringilla ut morbi tincidunt. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo. Euismod quis viverra nibh cras. Viverra adipiscing at in tellus integer feugiat scelerisque varius morbi. Tortor vitae purus faucibus ornare.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-03-08T14:20:08.750Z"
+        }
+    ],
+    "target": {
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page9",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1138.560546875,215.89561462402344,3516.0146484375,6052.787979125977"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest?manifest=https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "01dd675e-4787-4801-b658-bf1e23f50520.json",
+    "motivation": "commenting"
+}
