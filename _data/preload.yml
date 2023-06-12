@@ -1,4 +1,9 @@
 images:
+- added: '2023-06-12 10:53:11.612725'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/maps002~1~1~335884~163382/full/!1024,1024/0/default.jpg
+  title: Unknown
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~335884~163382/manifest
 - iiif: true
   thumbnail: https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/full/120,/0/default.jpg
   title: ''
