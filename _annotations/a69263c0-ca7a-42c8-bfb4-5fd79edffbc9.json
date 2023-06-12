@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~335884~163382/canvas/c1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Gaiety Theatre, Peter Street, Manchester",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-06-12T10:54:46.323Z",
+            "modified": "2023-06-12T10:54:56.956Z"
+        }
+    ],
+    "target": {
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~335884~163382/canvas/c1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"4698.3876953125,837.6297607421875 5360.02001953125,966.1588134765625 5275.683295642693,1400.3011451616785 4614.050971423943,1271.7720924273035\"></polygon></svg>"
+        },
+        "renderedVia": {
+            "name": "annotorious-tilted-box"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~335884~163382/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a69263c0-ca7a-42c8-bfb4-5fd79edffbc9.json",
+    "motivation": "commenting"
+}
