@@ -1,4 +1,9 @@
 images:
+- added: '2023-06-16 09:53:21.029632'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://www.digitalcollections.manchester.ac.uk/iiif/MS-LATIN-00006?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MS-LATIN-00006
 - added: '2023-06-12 10:53:11.612725'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/maps002~1~1~335884~163382/full/!1024,1024/0/default.jpg
@@ -56,6 +61,7 @@ images:
   thumbnail: https://stacks.stanford.edu/image/iiif/wh234bz9013/wh234bz9013_05_0001/full/!400,400/0/default.jpg
   title: "H\xC6MISPH\xC6RIUM STELLATVM BOREALE CVM SUBIECTO H\xC6MISPH\xC6RO TERRESTRI."
   url: https://purl.stanford.edu/wh234bz9013/iiif/manifest
+manifests: []
 settings:
   tempuser: notenabled
   viewer: default
