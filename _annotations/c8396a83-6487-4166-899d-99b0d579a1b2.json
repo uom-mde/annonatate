@@ -1,0 +1,35 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-LATIN-00006/canvas/3"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Test 3",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-06-16T10:24:10.155Z",
+            "modified": "2023-06-16T10:24:10.865Z"
+        }
+    ],
+    "target": {
+        "source": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-LATIN-00006/canvas/3",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=158.67007446289062,25.641752243041992,1891.0791931152344,2557.764741897583"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-LATIN-00006?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MS-LATIN-00006",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c8396a83-6487-4166-899d-99b0d579a1b2.json",
+    "motivation": "commenting"
+}
