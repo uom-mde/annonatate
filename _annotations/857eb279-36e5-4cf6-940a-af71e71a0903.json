@@ -20,16 +20,16 @@ order: 1
     "id": "857eb279-36e5-4cf6-940a-af71e71a0903.json",
     "motivation": "commenting",
     "target": {
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~415488~236287/canvas/c1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1061.142333984375,2080.61767578125,947.4361572265625,704.22900390625"
+        },
         "dcterms:isPartOf": {
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~415488~236287/manifest",
             "type": "Manifest"
-        },
-        "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "xywh=1290.4544677734375,2256.181884765625,465.45458984375,335.454345703125"
-        },
-        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~415488~236287/canvas/c1"
+        }
     },
     "type": "Annotation"
 }
