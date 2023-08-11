@@ -1,0 +1,31 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~436931~232949"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Please cut this if the poem won't fit.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2023-08-11T14:05:03.423Z",
+            "modified": "2023-08-11T14:05:09.968Z"
+        }
+    ],
+    "target": {
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~436931~232949",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=863.607177734375,1014.6341552734375,2663.41455078125,2583.3118896484375"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fa80b65a-5225-4dc3-840e-18ad11fcae49.json",
+    "motivation": "commenting"
+}
