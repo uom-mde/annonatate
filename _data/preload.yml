@@ -1,4 +1,9 @@
 images:
+- added: '2023-08-11 14:01:43.424358'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~436930~232950
 - added: '2023-06-19 14:24:43.142720'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/maps002~1~1~415488~236287/full/!1024,1024/0/default.jpg
