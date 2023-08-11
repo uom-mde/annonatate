@@ -1,0 +1,31 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~436930~232950"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The Bomb, from Gillian Clarke for Commonplace Book",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2023-08-11T14:02:15.426Z",
+            "modified": "2023-08-11T14:02:31.843Z"
+        }
+    ],
+    "target": {
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~436930~232950",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=983.76123046875,3090.62890625,2796.919189453125,1388.44677734375"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "842d0e8e-1562-472b-a0bd-0544fa84c1a4.json",
+    "motivation": "commenting"
+}
