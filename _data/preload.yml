@@ -1,4 +1,9 @@
 images:
+- added: '2023-08-14 12:03:31.868097'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~436948~232954/full/!1024,1024/0/default.jpg
+  title: Unknown
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~436948~232954/manifest
 - added: '2023-08-14 12:02:06.710409'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~436929~232951/full/!1024,1024/0/default.jpg
