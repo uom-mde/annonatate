@@ -1,0 +1,34 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page6"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The Phoolkians have their origin from the Mihraj kian who are of the Berar Beans sect, descendants of Rajah Lal Behar. In former days their ancestors lived in Jussulmere but the changes of the times having forced them from their Native Country when Rav Puthoosa was Rajah of Dehlie, they removed to the neighbourhood of Buttindah",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-08-17T08:18:09.087Z"
+        }
+    ],
+    "target": {
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page6",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=117.44868469238281,1217.780517578125,3459.427291870117,3040.572998046875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3b0cbe5c-d9b7-4543-ad9e-5fdc5c783dd2.json",
+    "motivation": "commenting"
+}
