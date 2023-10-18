@@ -1,0 +1,67 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://uom-mde.github.io/annonatate/img/derivatives/iiif/McCrorygrave//grave",
+  "height": 1818,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 227,
+      "width": 277
+    },
+    {
+      "height": 114,
+      "width": 138
+    },
+    {
+      "height": 57,
+      "width": 69
+    },
+    {
+      "height": 28,
+      "width": 35
+    },
+    {
+      "height": 14,
+      "width": 17
+    },
+    {
+      "height": 7,
+      "width": 9
+    },
+    {
+      "height": 4,
+      "width": 4
+    },
+    {
+      "height": 2,
+      "width": 2
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4
+      ],
+      "width": 512
+    }
+  ],
+  "width": 2213
+}
