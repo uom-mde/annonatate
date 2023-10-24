@@ -1,0 +1,38 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045/canvas/1"
+order: 14
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Signature of the bridegroom",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-10-24T10:08:15.976Z",
+            "modified": "2023-10-24T10:08:20.406Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1208.798095703125,4712.39111328125,541.6982421875,212.39208984375"
+        }
+    },
+    "id": "1bcc6c8e-6f5a-4a6d-bde9-0f6df18d2a6f.json",
+    "motivation": "commenting"
+}
