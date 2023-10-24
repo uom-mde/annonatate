@@ -4,20 +4,21 @@ order: 7
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Zodiac signs",
-            "purpose": "commenting",
+            "created": "2023-10-24T10:03:42.402Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-10-24T10:03:42.402Z",
-            "modified": "2023-10-24T10:03:44.335Z"
+            "modified": "2023-10-24T10:03:44.335Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Zodiac signs"
         }
     ],
+    "id": "a9ed2bb6-6439-42bc-9b4b-5ceba0b1697b.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +31,8 @@ order: 7
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3351.72119140625,3532.5400390625,732.65673828125,1738.11083984375"
+            "value": "xywh=3351.72119140625,3532.5400390625,712.197265625,1678.68115234375"
         }
     },
-    "id": "a9ed2bb6-6439-42bc-9b4b-5ceba0b1697b.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
