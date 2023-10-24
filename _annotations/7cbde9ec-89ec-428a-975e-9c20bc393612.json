@@ -4,20 +4,21 @@ order: 12
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Blinding of Isaac (Genesis 22)",
-            "purpose": "commenting",
+            "created": "2023-10-24T10:07:32.436Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-10-24T10:07:32.436Z",
-            "modified": "2023-10-24T10:07:40.109Z"
+            "modified": "2023-10-24T10:07:40.109Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Blinding of Isaac (Genesis 22)"
         }
     ],
+    "id": "7cbde9ec-89ec-428a-975e-9c20bc393612.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +31,8 @@ order: 12
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=242.31468200683594,5201.47802734375,697.5827789306641,791.11376953125"
+            "value": "xywh=242.31468200683594,5209.8310546875,754.7368927001953,782.7607421875"
         }
     },
-    "id": "7cbde9ec-89ec-428a-975e-9c20bc393612.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
