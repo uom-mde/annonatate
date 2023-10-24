@@ -1,0 +1,37 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045/canvas/1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Family emblem: jug and basin for the Levi family and a rooster perched on a branch with crescent half-moon and three stars for the Luzzatto family.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-10-24T10:00:15.870Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1634.0701904296875,1128.0235595703125,1112.6251220703125,1141.8533935546875"
+        }
+    },
+    "id": "525c6579-4d3d-441e-b49a-e23c9a79dcd1.json",
+    "motivation": "commenting"
+}
