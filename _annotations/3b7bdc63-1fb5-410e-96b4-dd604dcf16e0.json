@@ -4,20 +4,21 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Moses striking the rock to get water (Numbers 20:11)",
-            "purpose": "commenting",
+            "created": "2023-10-24T10:00:58.910Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-10-24T10:00:58.910Z",
-            "modified": "2023-10-24T10:01:12.039Z"
+            "modified": "2023-10-24T10:01:12.039Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Moses striking the rock to get water (Numbers 20:11)"
         }
     ],
+    "id": "3b7bdc63-1fb5-410e-96b4-dd604dcf16e0.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +31,8 @@ order: 3
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=634.46142578125,1430.049560546875,711.22265625,609.8978271484375"
+            "value": "xywh=714.3521728515625,1504.0947265625,631.3319091796875,492.984375"
         }
     },
-    "id": "3b7bdc63-1fb5-410e-96b4-dd604dcf16e0.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
