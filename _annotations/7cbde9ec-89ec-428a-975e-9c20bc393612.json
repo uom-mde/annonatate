@@ -1,0 +1,38 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045/canvas/1"
+order: 12
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Blinding of Isaac (Genesis 22)",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-10-24T10:07:32.436Z",
+            "modified": "2023-10-24T10:07:40.109Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=242.31468200683594,5201.47802734375,697.5827789306641,791.11376953125"
+        }
+    },
+    "id": "7cbde9ec-89ec-428a-975e-9c20bc393612.json",
+    "motivation": "commenting"
+}
