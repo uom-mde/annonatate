@@ -4,19 +4,20 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Moses and Aaron on Mount Sinai (Exodus 24)",
-            "purpose": "commenting",
+            "created": "2023-10-24T10:00:41.207Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-10-24T10:00:41.207Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Moses and Aaron on Mount Sinai (Exodus 24)"
         }
     ],
+    "id": "afd58c31-9011-4cc0-b999-75c8a969c1f7.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 2
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=2830.483154296875,1250.782470703125,802.8046875,816.444580078125"
+            "value": "xywh=2938.627685546875,1354.0557861328125,607.948974609375,572.8751220703125"
         }
     },
-    "id": "afd58c31-9011-4cc0-b999-75c8a969c1f7.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
