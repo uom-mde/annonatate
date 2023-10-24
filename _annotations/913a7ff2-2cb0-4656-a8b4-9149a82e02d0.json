@@ -1,0 +1,38 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045/canvas/1"
+order: 6
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Zodiac signs",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-10-24T10:03:20.481Z",
+            "modified": "2023-10-24T10:03:22.304Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3347.82421875,1926.930908203125,732.656494140625,1605.609375"
+        }
+    },
+    "id": "913a7ff2-2cb0-4656-a8b4-9149a82e02d0.json",
+    "motivation": "commenting"
+}
