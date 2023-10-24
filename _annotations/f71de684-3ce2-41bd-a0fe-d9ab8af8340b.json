@@ -1,0 +1,38 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045/canvas/1"
+order: 11
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Judgement of Somolon (1Kings 3:16-28)",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-10-24T10:06:45.211Z",
+            "modified": "2023-10-24T10:07:04.310Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00045/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1171.7755126953125,5213.16943359375,2092.7481689453125,945.04931640625"
+        }
+    },
+    "id": "f71de684-3ce2-41bd-a0fe-d9ab8af8340b.json",
+    "motivation": "commenting"
+}
