@@ -1,0 +1,38 @@
+---
+canvas: "https://iiif.nli.org.il/IIIFv21/FL154341394"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Colophon: Reproduced courtesy of the Jay and Jeanie Schottenstein Family Collection of Judaica",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-10-25T10:05:22.922Z",
+            "modified": "2023-10-25T10:05:27.119Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://iiif.nli.org.il/IIIFv21/DOCID/PNX_MANUSCRIPTS990000670780205171-1/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://iiif.nli.org.il/IIIFv21/FL154341394",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1735.6402587890625,209.1945037841797,1829.1109619140625,4039.0633087158203"
+        }
+    },
+    "id": "4f9f0e84-0054-410f-b455-e08fb1feee2c.json",
+    "motivation": "commenting"
+}
