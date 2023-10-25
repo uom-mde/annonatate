@@ -4,19 +4,20 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "An angel reading the chronicles of the empire to Ahasuerus (based on Targum Sheni to Esther 6:1).",
-            "purpose": "commenting",
+            "created": "2023-10-25T09:12:40.140Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-10-25T09:12:40.140Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "An angel reading the chronicles of the empire to Ahasuerus (based on Targum Sheni to Esther 6:1)."
         }
     ],
+    "id": "f39189ab-358f-4a19-8c4d-8be410f76e09.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=20802.67578125,109.02950286865234,1670.4921875,1300.5174942016602"
+            "value": "xywh=20830.703125,109.02950286865234,1642.46484375,1177.1926651000977"
         }
     },
-    "id": "f39189ab-358f-4a19-8c4d-8be410f76e09.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
