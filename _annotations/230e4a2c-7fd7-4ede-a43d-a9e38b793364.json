@@ -1,0 +1,38 @@
+---
+canvas: "https://iiif.nli.org.il/IIIFv21/FL10237720"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Colophon: From the collection of the National Library of Israel; \u05de\u05d5\u05e0\u05d2\u05e9 \u05d1\u05d0\u05de\u05e6\u05e2\u05d5\u05ea \u05e4\u05e8\u05d5\u05d9\u05e7\u05d8 \u05db\u05ea\u05d9\u05d1, \u05d4\u05e1\u05e4\u05e8\u05d9\u05d9\u05d4 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9\u05ea",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-10-25T10:08:26.989Z",
+            "modified": "2023-10-25T10:08:31.358Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://iiif.nli.org.il/IIIFv21/DOCID/PNX_MANUSCRIPTS990025934540205171-1/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://iiif.nli.org.il/IIIFv21/FL10237720",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2043.9539794921875,327.16766357421875,1816.0567626953125,4173.369445800781"
+        }
+    },
+    "id": "230e4a2c-7fd7-4ede-a43d-a9e38b793364.json",
+    "motivation": "commenting"
+}
