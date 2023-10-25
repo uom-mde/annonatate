@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~10~10~4809~282069/canvas/c1"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Haman\u2019s daughter emptying the chamber pot on her father\u2019s head (based on Babylonian Talmud, Megillah 16a). \nhttps://www.sefaria.org/Megillah.16a.11",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-10-25T09:15:49.232Z",
+            "modified": "2023-10-25T09:16:04.352Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~10~10~4809~282069/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~10~10~4809~282069/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=20976.451171875,1345.081787109375,1390.208984375,1905.930908203125"
+        }
+    },
+    "id": "11e5a2db-898c-4d1b-aba9-6b7b55bd4a4a.json",
+    "motivation": "commenting"
+}
