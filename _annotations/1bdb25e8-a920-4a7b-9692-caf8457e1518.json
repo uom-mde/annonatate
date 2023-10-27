@@ -1,0 +1,38 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00006/canvas/87"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Micrography in the outer margin.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-10-27T15:20:06.641Z",
+            "modified": "2023-10-27T15:20:09.295Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00006?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00006",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00006/canvas/87",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=331.9857482910156,795.7159423828125,905.5846862792969,3505.8114013671875"
+        }
+    },
+    "id": "1bdb25e8-a920-4a7b-9692-caf8457e1518.json",
+    "motivation": "commenting"
+}
