@@ -1,0 +1,37 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/19"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Recipes for getting rid of worms in the finger. The title is in Hebrew while the recipes are in a mixture of Yiddish and Hebrew.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-10-27T15:41:51.100Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/19",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=159.5908203125,3123.627685546875,4826.73046875,1317.422607421875"
+        }
+    },
+    "id": "8ed7bb85-555c-47ff-92ef-e49c7bf38b7b.json",
+    "motivation": "commenting"
+}
