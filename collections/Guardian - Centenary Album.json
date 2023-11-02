@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Guardian - Centenary Album",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://uom-mde.github.io/annonatate/annotations/manchester-12-12-1942-247191-c1-page52-list.json'></iiif-storyboard>",
+            "title": "Dining-Room - Cooks, etc.",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
