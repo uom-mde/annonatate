@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~12~12~1186~245260/canvas/c1/page16"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "San Serriffe supplement",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-11-02T09:33:54.727Z",
+            "modified": "2023-11-02T09:34:01.829Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~12~12~1186~245260/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~12~12~1186~245260/canvas/c1/page16",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=169.96177673339844,115.38461303710938,4134.615371704102,2384.6153869628906"
+        }
+    },
+    "id": "03bb2502-e66d-4aff-b80f-4735006885f3.json",
+    "motivation": "commenting"
+}
