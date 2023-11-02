@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~12~12~1186~245260/canvas/c1/page16"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The two main islands, Upper Caisse and Lower Caisse \u2018grouped roughly in the shape of a semi colon\u2019 ushering in a series of typesetting jokes.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-11-02T09:34:19.157Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~12~12~1186~245260/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~12~12~1186~245260/canvas/c1/page16",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2650.73095703125,519.2307739257812,1528.84619140625,1951.9230346679688"
+        }
+    },
+    "id": "bd474a2f-0451-4025-9bbf-e900cb1a0489.json",
+    "motivation": "commenting"
+}
