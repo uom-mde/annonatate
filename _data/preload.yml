@@ -1,4 +1,10 @@
 images:
+- added: '2023-11-14 14:41:10.834276'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~445241~289422page0/full/!1024,1024/0/default.jpg
+  title: Unknown
+  url: https://gist.githubusercontent.com/uom-mde/ea7df2c2782c78034e61444cb9ccf216/raw/7dec4c315d341988870266a918ed4dae5680d4c5/Bookreader_R20197_2
+  user: Manchester Digital Exhibitions
 - added: '2023-11-14 14:38:56.619592'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~445240~289113page0/full/!1024,1024/0/default.jpg
