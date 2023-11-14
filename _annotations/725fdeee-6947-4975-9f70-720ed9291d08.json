@@ -1,0 +1,22 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~445402~290253page9/info.json"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~445402~290253page9/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1408.1097412109375,1210.02392578125,1427.2076416015625,2420.0478515625"
+        }
+    },
+    "id": "725fdeee-6947-4975-9f70-720ed9291d08.json",
+    "motivation": "commenting"
+}
