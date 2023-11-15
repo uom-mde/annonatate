@@ -1,4 +1,10 @@
 images:
+- added: '2023-11-15 16:25:43.388395'
+  iiif: true
+  thumbnail: ''
+  title: null
+  url: https://digitalexhibitions.manchester.ac.uk/files/iiif/carcanet/cpa_bottles_bombed_city.json
+  user: Manchester Digital Exhibitions
 - added: '2023-11-15 14:27:56.567823'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~436948~232954/full/!1024,1024/0/default.jpg
