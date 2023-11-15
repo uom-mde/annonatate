@@ -1,4 +1,10 @@
 images:
+- added: '2023-11-15 14:27:56.567823'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~436948~232954/full/!1024,1024/0/default.jpg
+  title: Unknown
+  url: https://digitalexhibitions.manchester.ac.uk/files/iiif/carcanet/luna/bombingAPublisher.json
+  user: Manchester Digital Exhibitions
 - added: '2023-11-14 14:49:52.729019'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~445402~290253page0/full/!1024,1024/0/default.jpg
