@@ -1,4 +1,10 @@
 images:
+- added: '2023-11-21 15:06:42.578064'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~14~14~13~144871/full/!1024,1024/0/default.jpg
+  title: Anatomy Theatre
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~14~14~13~144871/manifest
+  user: Manchester Digital Exhibitions
 - added: '2023-11-21 15:02:32.082099'
   iiif: true
   thumbnail: ''
