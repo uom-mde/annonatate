@@ -1,0 +1,26 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MH-02015-00027/canvas/1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MH-02015-00027",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MH-02015-00027/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=171.32156372070312,392.659912109375,6538.099334716797,3621.197021484375"
+        }
+    },
+    "id": "f7ba322b-9171-4216-a037-d9e8d21cf5b5.json",
+    "motivation": "commenting"
+}
