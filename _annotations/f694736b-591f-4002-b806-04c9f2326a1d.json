@@ -1,0 +1,26 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MH-01978-00104/canvas/1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MH-01978-00104?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MH-01978-00104",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MH-01978-00104/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=11.942168235778809,8.42601490020752,5721.263886451721,5308.3894147872925"
+        }
+    },
+    "id": "f694736b-591f-4002-b806-04c9f2326a1d.json",
+    "motivation": "commenting"
+}
