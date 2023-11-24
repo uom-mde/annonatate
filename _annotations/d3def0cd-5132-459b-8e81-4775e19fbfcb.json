@@ -1,0 +1,38 @@
+---
+canvas: "https://uom-mde.github.io/annonatate/img/derivatives/iiif/McCrorygrave/canvas/McCrorygrave-1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Headstone",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-11-24T10:27:15.051Z",
+            "modified": "2023-11-24T10:27:16.303Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://uom-mde.github.io/annonatate/img/derivatives/iiif/McCrorygrave/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://uom-mde.github.io/annonatate/img/derivatives/iiif/McCrorygrave/canvas/McCrorygrave-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=618.3734741210938,241.29115295410156,1388.4485473632812,1171.5035247802734"
+        }
+    },
+    "id": "d3def0cd-5132-459b-8e81-4775e19fbfcb.json",
+    "motivation": "commenting"
+}
