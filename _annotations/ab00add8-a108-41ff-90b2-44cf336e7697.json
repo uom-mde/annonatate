@@ -1,0 +1,38 @@
+---
+canvas: "https://uom-mde.github.io/annonatate/img/derivatives/iiif/McCrorygrave/canvas/McCrorygrave-1"
+order: 4
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Sperrin mountains",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-11-24T10:27:57.800Z",
+            "modified": "2023-11-24T10:28:00.497Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://uom-mde.github.io/annonatate/img/derivatives/iiif/McCrorygrave/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://uom-mde.github.io/annonatate/img/derivatives/iiif/McCrorygrave/canvas/McCrorygrave-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=0,188.2601318359375,1286.082275390625,142.21954345703125"
+        }
+    },
+    "id": "ab00add8-a108-41ff-90b2-44cf336e7697.json",
+    "motivation": "commenting"
+}
