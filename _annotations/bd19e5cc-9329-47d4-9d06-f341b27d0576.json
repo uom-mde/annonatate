@@ -1,0 +1,38 @@
+---
+canvas: "https://uom-mde.github.io/annonatate/img/derivatives/iiif/McCrorygrave/canvas/McCrorygrave-1"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Frank McCrory from Aughnagreggan",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-11-24T10:27:30.811Z",
+            "modified": "2023-11-24T10:27:36.656Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://uom-mde.github.io/annonatate/img/derivatives/iiif/McCrorygrave/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://uom-mde.github.io/annonatate/img/derivatives/iiif/McCrorygrave/canvas/McCrorygrave-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1035.39013671875,612.50830078125,800.286376953125,113.2935791015625"
+        }
+    },
+    "id": "bd19e5cc-9329-47d4-9d06-f341b27d0576.json",
+    "motivation": "commenting"
+}
