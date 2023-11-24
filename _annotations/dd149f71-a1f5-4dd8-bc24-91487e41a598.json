@@ -1,0 +1,38 @@
+---
+canvas: "https://uom-mde.github.io/annonatate/img/derivatives/iiif/McCrorygrave/canvas/McCrorygrave-1"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Celtic Cross",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2023-11-24T10:27:47.826Z",
+            "modified": "2023-11-24T10:27:50.346Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://uom-mde.github.io/annonatate/img/derivatives/iiif/McCrorygrave/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://uom-mde.github.io/annonatate/img/derivatives/iiif/McCrorygrave/canvas/McCrorygrave-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=0,0.24104642868041992,396.6073913574219,1048.567913532257"
+        }
+    },
+    "id": "dd149f71-a1f5-4dd8-bc24-91487e41a598.json",
+    "motivation": "commenting"
+}
