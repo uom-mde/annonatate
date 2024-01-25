@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Indian Drawings 21",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://uom-mde.github.io/annonatate/annotations/manchester-91-1-445993-291522-c1-page8-list.json'></iiif-storyboard>",
+            "title": "Test1",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
