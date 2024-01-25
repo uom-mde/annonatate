@@ -4,9 +4,15 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [],
+    "id": "cde3c466-b6eb-4321-8d89-222c2b2d43df.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1160.92431640625,1242.4241943359375,2757.57568359375,3382.575927734375"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444766~287982/manifest",
@@ -14,13 +20,7 @@ order: 2
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444766~287982/canvas/c1/page65",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1160.92431640625,1242.4241943359375,2757.57568359375,3382.575927734375"
         }
     },
-    "id": "cde3c466-b6eb-4321-8d89-222c2b2d43df.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
