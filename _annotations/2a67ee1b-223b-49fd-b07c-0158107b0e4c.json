@@ -4,20 +4,21 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "The opening passage:\u200b\n\nJap Ji Sahib\u200b",
-            "purpose": "commenting",
+            "created": "2024-01-26T09:47:18.028Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2024-01-26T09:47:18.028Z",
-            "modified": "2024-01-26T09:47:32.935Z"
+            "modified": "2024-01-26T09:47:32.935Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "The opening passage:\u200b\n\nJap Ji Sahib\u200b"
         }
     ],
+    "id": "2a67ee1b-223b-49fd-b07c-0158107b0e4c.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +31,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=681.5332641601562,559.9329833984375,4927.410095214844,2413.1304931640625"
+            "value": "xywh=688.7582397460938,722.4942016601562,4920.185119628906,2250.5692749023438"
         }
     },
-    "id": "2a67ee1b-223b-49fd-b07c-0158107b0e4c.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
