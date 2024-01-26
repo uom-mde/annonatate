@@ -1,4 +1,10 @@
 images:
+- added: '2024-01-26 09:31:45.430874'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~441625~274388page0/full/!1024,1024/0/default.jpg
+  title: Unknown
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~441625~274388/manifest
+  user: Manchester Digital Exhibitions
 - added: '2024-01-25 17:45:20.767592'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~445993~291522page0/full/!1024,1024/0/default.jpg
