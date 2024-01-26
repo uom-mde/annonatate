@@ -1,4 +1,10 @@
 images:
+- added: '2024-01-26 10:25:50.370394'
+  iiif: true
+  thumbnail: https://framemark.vam.ac.uk/collections/2006AH4376/full/120,/0/default.jpg
+  title: The Golden Temple at Amritsar
+  url: https://iiif.vam.ac.uk/collections/O81952/manifest.json
+  user: Manchester Digital Exhibitions
 - added: '2024-01-26 09:31:45.430874'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~441625~274388page0/full/!1024,1024/0/default.jpg
