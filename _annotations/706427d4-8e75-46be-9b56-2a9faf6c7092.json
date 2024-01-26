@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~441625~274388/canvas/c1/page40"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The paper is thought to be made in the Punjab, with local natural fibres and cords, which give the characteristic brown colouring. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-01-26T09:49:49.276Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~441625~274388/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~441625~274388/canvas/c1/page40",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=139.66265869140625,93.92424011230469,3323.4730834960938,2731.0279083251953"
+        }
+    },
+    "id": "706427d4-8e75-46be-9b56-2a9faf6c7092.json",
+    "motivation": "commenting"
+}
