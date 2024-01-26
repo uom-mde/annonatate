@@ -1,0 +1,26 @@
+---
+canvas: "https://iiif.vam.ac.uk/collections/O81952/canvas/c0"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://iiif.vam.ac.uk/collections/O81952/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://iiif.vam.ac.uk/collections/O81952/canvas/c0",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=120.92074584960938,332.1678466796875,2263.9859924316406,1526.8065185546875"
+        }
+    },
+    "id": "f2a8b07f-d7ff-4ab0-911f-f8642fd7c404.json",
+    "motivation": "commenting"
+}
