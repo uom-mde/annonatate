@@ -1,0 +1,22 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/iiif/1823/info.json"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/1823/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=75.8031005859375,62.64102554321289,5842.6993408203125,4128.613368988037"
+        }
+    },
+    "id": "fa7ed97c-0d87-45be-b750-856d9a369595.json",
+    "motivation": "commenting"
+}
