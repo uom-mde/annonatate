@@ -1,4 +1,10 @@
 images:
+- added: '2024-02-01 10:01:20.116742'
+  iiif: true
+  thumbnail: https://www.digitalexhibitions.manchester.ac.uk/iiif/1821/full/120,/0/default.jpg
+  title: ''
+  url: https://www.digitalexhibitions.manchester.ac.uk/iiif/1821/info.json
+  user: Manchester Digital Exhibitions
 - added: '2024-01-31 14:16:02.236122'
   iiif: true
   thumbnail: ''
