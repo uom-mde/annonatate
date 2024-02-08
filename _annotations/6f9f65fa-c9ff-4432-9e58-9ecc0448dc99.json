@@ -1,0 +1,22 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/maps002~1~1~414883~222327"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/maps002~1~1~414883~222327",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=183.51368713378906,313.4993591308594,4157.200668334961,4605.238433837891"
+        }
+    },
+    "id": "6f9f65fa-c9ff-4432-9e58-9ecc0448dc99.json",
+    "motivation": "commenting"
+}
