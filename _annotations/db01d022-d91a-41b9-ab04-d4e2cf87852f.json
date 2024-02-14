@@ -4,8 +4,9 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [],
+    "id": "db01d022-d91a-41b9-ab04-d4e2cf87852f.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~436234~231802",
@@ -14,9 +15,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1216.807373046875,130.74713134765625,3931.753173828125,6285.201110839844"
+            "value": "xywh=1151.433837890625,102.72988891601562,3997.126708984375,6331.896575927734"
         }
     },
-    "id": "db01d022-d91a-41b9-ab04-d4e2cf87852f.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
