@@ -4,21 +4,27 @@ order: 9
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "coarse features",
-            "purpose": "commenting",
+            "created": "2024-02-20T16:10:50.939Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2024-02-20T16:10:50.939Z",
-            "modified": "2024-02-20T16:10:53.730Z"
+            "modified": "2024-02-20T16:40:02.385Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "The women are depicted with coarse, exaggerated features."
         }
     ],
+    "id": "9a7c07df-ed74-42f3-a5c0-20a11fda4800.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=877.6513061523438,1083.3333740234375,348.48492431640625,280.302978515625"
+        },
         "source": {
             "partOf": {
                 "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-R-00002-33019",
@@ -26,13 +32,7 @@ order: 9
             },
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-R-00002-33019/canvas/3",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=877.6513061523438,1083.3333740234375,348.48492431640625,280.302978515625"
         }
     },
-    "id": "9a7c07df-ed74-42f3-a5c0-20a11fda4800.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
