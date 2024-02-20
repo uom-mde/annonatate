@@ -4,21 +4,27 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "drunken",
-            "purpose": "commenting",
+            "created": "2024-02-20T16:08:59.387Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2024-02-20T16:08:59.387Z",
-            "modified": "2024-02-20T16:09:00.313Z"
+            "modified": "2024-02-20T16:40:56.302Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "A drunken slumped in her chair, clutching a bottle of gin."
         }
     ],
+    "id": "6f67c7bc-8906-45c3-bd4b-f2925a6bc384.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3283.901611328125,1473.48486328125,704.54541015625,929.92431640625"
+        },
         "source": {
             "partOf": {
                 "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-R-00002-33019",
@@ -26,13 +32,7 @@ order: 3
             },
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-R-00002-33019/canvas/3",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3283.901611328125,1473.48486328125,704.54541015625,929.92431640625"
         }
     },
-    "id": "6f67c7bc-8906-45c3-bd4b-f2925a6bc384.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
