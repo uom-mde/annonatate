@@ -4,21 +4,27 @@ order: 10
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "common dress",
-            "purpose": "commenting",
+            "created": "2024-02-20T16:11:12.706Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2024-02-20T16:11:12.706Z",
-            "modified": "2024-02-20T16:11:15.161Z"
+            "modified": "2024-02-20T16:40:26.070Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "The women are wearing common dress, signifying their low status."
         }
     ],
+    "id": "25927430-151f-420a-a7b7-fb44a8d1f6c0.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1678.3111572265625,1126.463134765625,350.3787841796875,564.3939208984375"
+        },
         "source": {
             "partOf": {
                 "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-R-00002-33019",
@@ -26,13 +32,7 @@ order: 10
             },
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-R-00002-33019/canvas/3",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1678.3111572265625,1126.463134765625,350.3787841796875,564.3939208984375"
         }
     },
-    "id": "25927430-151f-420a-a7b7-fb44a8d1f6c0.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
