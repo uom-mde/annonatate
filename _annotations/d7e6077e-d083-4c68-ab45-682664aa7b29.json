@@ -1,0 +1,26 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-R-00002-33019/canvas/3"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-R-00002-33019",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-R-00002-33019/canvas/3",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=142.06871032714844,454.5691833496094,3935.1851959228516,2213.8048400878906"
+        }
+    },
+    "id": "d7e6077e-d083-4c68-ab45-682664aa7b29.json",
+    "motivation": "commenting"
+}
