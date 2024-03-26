@@ -1,0 +1,9 @@
+---
+canvas_id: "https://digitalexhibitions.manchester.ac.uk/iiif-presentation/2/item/1311/canvas/1553"
+---
+{% assign annotations = site.annotations | where: "canvas", page.canvas_id | sort: "order" | map: "content" %}
+{
+"@context": "http://iiif.io/api/presentation/3/context.json",
+"id": "{{ site.url }}{{ site.baseurl }}{{page.url}}",
+"type": "AnnotationPage",
+"items": [{{ annotations | join: ","}}] }
