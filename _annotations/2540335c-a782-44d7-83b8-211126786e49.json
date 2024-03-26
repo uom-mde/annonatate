@@ -1,0 +1,26 @@
+---
+canvas: "https://digitalexhibitions.manchester.ac.uk/iiif-presentation/2/item/1311/canvas/1553"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://digitalexhibitions.manchester.ac.uk/iiif-presentation/2/item/1311/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://digitalexhibitions.manchester.ac.uk/iiif-presentation/2/item/1311/canvas/1553",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1.0066674947738647,7.465538024902344,4498.993332505226,2411.3686904907227"
+        }
+    },
+    "id": "2540335c-a782-44d7-83b8-211126786e49.json",
+    "motivation": "commenting"
+}
