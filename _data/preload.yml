@@ -1,4 +1,10 @@
 images:
+- added: '2024-03-26 16:44:01.140772'
+  iiif: true
+  thumbnail: https://digitalexhibitions.manchester.ac.uk/files/original/1ebd30bdb050a9a4fe4ee73bd8bda8d8750385a4.jpg
+  title: Tile from the Corn Exchange, Manchester
+  url: https://digitalexhibitions.manchester.ac.uk/iiif-presentation/2/item/1311/manifest
+  user: Manchester Digital Exhibitions
 - added: '2024-03-16 11:16:16.249441'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~15~15~89~211236/full/!1024,1024/0/default.jpg
