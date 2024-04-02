@@ -1,0 +1,22 @@
+---
+canvas: "https://vm-rvmi-its053.its.manchester.ac.uk:8183/iiif/2/carcanet__JRL19100043.tif/info.json"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "id": "https://vm-rvmi-its053.its.manchester.ac.uk:8183/iiif/2/carcanet__JRL19100043.tif/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=535.758544921875,15.719467163085938,4582.224365234375,6444.981216430664"
+        }
+    },
+    "id": "c36240f8-5a49-4cb5-9231-a50534bda87e.json",
+    "motivation": "commenting"
+}
