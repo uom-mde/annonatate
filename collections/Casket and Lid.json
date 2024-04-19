@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Casket and Lid",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard url='https://uom-mde.github.io/annonatate/annotations/2381-list.json' styling='zoom: -2258.333333333333,0,6116.666666666666,2000;'></iiif-storyboard>",
+            "title": "Image 1",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
