@@ -1,4 +1,12 @@
 images:
+- added: '2024-05-08 09:16:44.115465'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~436929~232951/full/!1024,1024/0/default.jpg
+  title:
+  - en:
+    - 'Carcanet: a pigeon''s eye view'
+  url: https://www.digitalexhibitions.manchester.ac.uk/files/iiif/carcanet/manifest/brackenbury.json
+  user: Manchester Digital Exhibitions
 - added: '2024-04-19 09:50:32.923663'
   iiif: true
   thumbnail: https://www.digitalexhibitions.manchester.ac.uk/iiif/2383/full/120,/0/default.jpg
