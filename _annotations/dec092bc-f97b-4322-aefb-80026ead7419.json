@@ -4,8 +4,9 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [],
+    "id": "dec092bc-f97b-4322-aefb-80026ead7419.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/carcanet__JRL19100043.tif/info.json",
@@ -14,9 +15,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=551.47802734375,23.579200744628906,4583.52197265625,6437.121482849121"
+            "value": "xywh=512.1793823242188,23.579200744628906,4622.820617675781,6452.841209411621"
         }
     },
-    "id": "dec092bc-f97b-4322-aefb-80026ead7419.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
