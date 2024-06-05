@@ -1,4 +1,10 @@
 images:
+- added: '2024-06-05 16:12:12.854334'
+  iiif: true
+  thumbnail: https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/carcanet__JRL22021305.tif/full/120,/0/default.jpg
+  title: ''
+  url: https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/carcanet__JRL22021305.tif/info.json
+  user: Manchester Digital Exhibitions
 - added: '2024-06-05 09:13:47.272743'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~445400~289599page0/full/!1024,1024/0/default.jpg
