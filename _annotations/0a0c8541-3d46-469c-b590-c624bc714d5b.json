@@ -1,0 +1,22 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/carcanet__JRL22021305.tif/info.json"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/carcanet__JRL22021305.tif/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=7.546496391296387,11.816204071044922,5992.453503608704,4242.017292022705"
+        }
+    },
+    "id": "0a0c8541-3d46-469c-b590-c624bc714d5b.json",
+    "motivation": "commenting"
+}
