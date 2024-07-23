@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~441625~274388/canvas/c1/page5"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Swastikas",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-07-23T14:26:48.557Z",
+            "modified": "2024-07-23T14:26:54.437Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~441625~274388/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~441625~274388/canvas/c1/page5",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1893.9788818359375,2121.440673828125,3704.2525634765625,3326.267822265625"
+        }
+    },
+    "id": "24cccaa0-ef12-4d8a-839e-e80e65fa63c4.json",
+    "motivation": "commenting"
+}
