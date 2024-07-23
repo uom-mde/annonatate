@@ -4,9 +4,27 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
-    "body": [],
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Siahi Ki Bidhi (The Ink Recipe)",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-07-23T13:49:52.555Z",
+            "modified": "2024-07-23T13:50:09.472Z"
+        }
+    ],
+    "id": "89e777a9-7b3e-405a-82c5-455f82a17942.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=211.34068298339844,107.02781677246094,6235.533340454102,5933.063491821289"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~441625~274388/manifest",
@@ -14,13 +32,7 @@ order: 1
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~441625~274388/canvas/c1/page913",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=211.34068298339844,107.02781677246094,6235.533340454102,5933.063491821289"
         }
     },
-    "id": "89e777a9-7b3e-405a-82c5-455f82a17942.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
