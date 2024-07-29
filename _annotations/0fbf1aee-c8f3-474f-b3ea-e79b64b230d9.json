@@ -1,0 +1,33 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1934_354_7.tif/info.json"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Emperor Aurangzeb (1618-1707) \n\nThe sixth Mughal emperor (r. 1658-1707). A maligned figure in Sikh history, Aurangzeb executed Guru Tegh Bahadur (1621-1675) for refusing to embrace Islam. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-07-29T16:11:48.750Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1934_354_7.tif/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=528.4644775390625,895.131103515625,560.5494384765625,715.3558349609375"
+        }
+    },
+    "id": "0fbf1aee-c8f3-474f-b3ea-e79b64b230d9.json",
+    "motivation": "commenting"
+}
