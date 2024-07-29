@@ -1,4 +1,10 @@
 images:
+- added: '2024-07-29 16:10:48.950304'
+  iiif: false
+  thumbnail: https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1934_354_7.tif
+  title: ''
+  url: https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1934_354_7.tif
+  user: Manchester Digital Exhibitions
 - added: '2024-07-29 16:01:37.681370'
   iiif: true
   thumbnail: https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1934_354_6.tif/full/120,/0/default.jpg
