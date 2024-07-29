@@ -1,0 +1,33 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1934_354_6.tif/info.json"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Emperor Shah Jahan \n\nThe fifth Mughal emperor, (r. 1628-1658), third son of Emperor Jahangir. Ordered the destruction of the Sikhs following a rebellion led by Guru Hargobind (1595-1644). ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-07-29T16:02:14.971Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1934_354_6.tif/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=509.7378845214844,905.11865234375,559.3010559082031,729.0887451171875"
+        }
+    },
+    "id": "523dc750-ee5f-4a65-890c-0a972239f778.json",
+    "motivation": "commenting"
+}
