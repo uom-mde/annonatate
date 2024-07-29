@@ -4,20 +4,21 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Catalogue entry",
-            "purpose": "commenting",
+            "created": "2024-07-29T08:46:40.466Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2024-07-29T08:46:40.466Z",
-            "modified": "2024-07-29T08:46:43.490Z"
+            "modified": "2024-07-29T08:46:43.490Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Catalogue entry"
         }
     ],
+    "id": "ab257585-be90-4e36-a799-00172440e9d0.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~25~25~2614~296940",
@@ -26,9 +27,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=480.01513671875,2545.45458984375,1878.787841796875,575.757568359375"
+            "value": "xywh=480.01513671875,2564.39404296875,1867.42431640625,541.66650390625"
         }
     },
-    "id": "ab257585-be90-4e36-a799-00172440e9d0.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
