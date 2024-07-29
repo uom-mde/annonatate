@@ -1,0 +1,33 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1934_354_4.tif/info.json"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "A wife or daughter of a Mughal Emperor \n\nUnidentified, this portrait typifies depictions of imperial Mughal wives, with her jewellery, pale oval face, and long dark hair. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-07-29T15:48:32.676Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1934_354_4.tif/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=505.2295837402344,956.166015625,582.6050109863281,732.4176025390625"
+        }
+    },
+    "id": "722847f2-b867-4bee-a37e-57adb62c0185.json",
+    "motivation": "commenting"
+}
