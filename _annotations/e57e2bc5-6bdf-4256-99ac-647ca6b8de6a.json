@@ -1,0 +1,32 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1934_354_2.png/full/max/0/default.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Mumtaz Mahal, born Arjumand Banu Begum (1593-1631)\n \nEmpress consort of the Mughal Emperor from 1628 to 1631. Her husband commissioned the construction of the Taj Mahal to house her tomb. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-07-29T14:49:40.163Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1934_354_2.png/full/max/0/default.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"804.9938354492188\" cy=\"1273.4083251953125\" rx=\"171.66046142578125\" ry=\"255.9300537109375\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e57e2bc5-6bdf-4256-99ac-647ca6b8de6a.json",
+    "motivation": "commenting"
+}
