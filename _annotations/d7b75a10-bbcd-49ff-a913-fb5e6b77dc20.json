@@ -4,19 +4,20 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Maharajah Gulab Singh (1792-1857) \n\nThe first Maharajah of the princely state of Jammu and Kashmir. Originally part of the Sikh Empire, it became the second-largest principality under the British Raj until India gained independence in 1947.",
-            "purpose": "commenting",
+            "created": "2024-07-29T15:39:52.710Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2024-07-29T15:39:52.710Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Maharajah Gulab Singh (1792-1857) \n\nThe first Maharajah of the princely state of Jammu and Kashmir. Originally part of the Sikh Empire, it became the second-largest principality under the British Raj until India gained independence in 1947."
         }
     ],
+    "id": "d7b75a10-bbcd-49ff-a913-fb5e6b77dc20.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1934_354_3.tif/info.json",
@@ -25,9 +26,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=495.0711975097656,932.5540771484375,548.1867370605469,691.759521484375"
+            "value": "xywh=495.0711975097656,932.5540771484375,553.9925231933594,726.6220703125"
         }
     },
-    "id": "d7b75a10-bbcd-49ff-a913-fb5e6b77dc20.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
