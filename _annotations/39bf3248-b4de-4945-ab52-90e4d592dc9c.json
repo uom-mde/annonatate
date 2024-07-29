@@ -1,0 +1,33 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1934_354_8.tif/info.json"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Emperor Akbar (1542-1605) \n\nThird Mughal emperor (r. 1556-1605). He paid a visit to Guru Amar Das (1479-1574) in 1569, showing respect to the House of Nanak and Sikh teachings.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-07-29T16:16:50.075Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1934_354_8.tif/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=482.27227783203125,892.6343383789062,574.2820434570312,729.0888061523438"
+        }
+    },
+    "id": "39bf3248-b4de-4945-ab52-90e4d592dc9c.json",
+    "motivation": "commenting"
+}
