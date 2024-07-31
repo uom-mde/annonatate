@@ -1,0 +1,33 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1934_354_1.tif/info.json"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Ranjit Singh\nThe first Maharajah of the Sikh Empire, which witnessed a massive expansion under his leadership. A distinctive portrait, Ranjit Singh caught smallpox as a child which left him blind in his left eye.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-07-31T16:03:04.818Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1934_354_1.tif/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=583.1474609375,996.2825317382812,379.18212890625,488.22808837890625"
+        }
+    },
+    "id": "c71eb03c-7264-4da1-a567-49c7e7f2a5ac.json",
+    "motivation": "commenting"
+}
