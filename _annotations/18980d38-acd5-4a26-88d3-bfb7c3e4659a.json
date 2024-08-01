@@ -6,15 +6,15 @@ order: 1
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Sikh armour",
-            "purpose": "commenting",
+            "created": "2024-08-01T11:07:42.956Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2024-08-01T11:07:42.956Z",
-            "modified": "2024-08-01T11:07:52.582Z"
+            "modified": "2024-08-01T11:07:52.582Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Sikh armour"
         }
     ],
     "id": "18980d38-acd5-4a26-88d3-bfb7c3e4659a.json",
