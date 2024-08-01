@@ -4,9 +4,27 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
-    "body": [],
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Sikh armour",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-08-01T11:07:42.956Z",
+            "modified": "2024-08-01T11:07:52.582Z"
+        }
+    ],
+    "id": "18980d38-acd5-4a26-88d3-bfb7c3e4659a.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=433.65155029296875,606.0606079101562,3492.4243774414062,5291.666931152344"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444766~287982/manifest",
@@ -14,13 +32,7 @@ order: 1
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444766~287982/canvas/c1/page65",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=433.65155029296875,606.0606079101562,3492.4243774414062,5291.666931152344"
         }
     },
-    "id": "18980d38-acd5-4a26-88d3-bfb7c3e4659a.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
