@@ -1,0 +1,34 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__umist__TOP_6_3_2.tif/info.json"
+order: 12
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Maths and Social Science Tower",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-08-02T15:26:14.088Z",
+            "modified": "2024-08-02T15:26:22.865Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__umist__TOP_6_3_2.tif/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=10549.1689453125,4653.13720703125,987.12109375,923.337890625"
+        }
+    },
+    "id": "6461d64e-c040-47eb-80b5-e1cbf5fc2948.json",
+    "motivation": "commenting"
+}
