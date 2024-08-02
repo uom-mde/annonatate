@@ -1,0 +1,34 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__umist__TOP_6_3_2.tif/info.json"
+order: 7
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Worthington Staircase",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-08-02T15:21:06.302Z",
+            "modified": "2024-08-02T15:21:10.382Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__umist__TOP_6_3_2.tif/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=10181.6552734375,3177.011474609375,431.296875,315.878662109375"
+        }
+    },
+    "id": "12631a05-d8b5-49af-b6a3-f56756910087.json",
+    "motivation": "commenting"
+}
