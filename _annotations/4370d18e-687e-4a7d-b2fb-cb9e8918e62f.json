@@ -1,0 +1,34 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__umist__TOP_6_3_2.tif/info.json"
+order: 10
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Pilot Plant (Morton)",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-08-02T15:25:24.284Z",
+            "modified": "2024-08-02T15:25:32.081Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__umist__TOP_6_3_2.tif/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=11351.0146484375,4066.939208984375,589.2353515625,653.018798828125"
+        }
+    },
+    "id": "4370d18e-687e-4a7d-b2fb-cb9e8918e62f.json",
+    "motivation": "commenting"
+}
