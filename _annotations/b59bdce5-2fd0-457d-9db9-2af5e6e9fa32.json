@@ -4,20 +4,21 @@ order: 9
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "The Chemistry building",
-            "purpose": "commenting",
+            "created": "2024-08-02T15:40:45.001Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2024-08-02T15:40:45.001Z",
-            "modified": "2024-08-02T15:40:51.745Z"
+            "modified": "2024-08-02T15:40:51.745Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "The Chemistry building"
         }
     ],
+    "id": "b59bdce5-2fd0-457d-9db9-2af5e6e9fa32.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +31,8 @@ order: 9
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1289.8670654296875,2186.615234375,1551.1607666015625,1065.6083984375"
+            "value": "xywh=1842.2236328125,2160.54541015625,998.80419921875,1091.67822265625"
         }
     },
-    "id": "b59bdce5-2fd0-457d-9db9-2af5e6e9fa32.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
