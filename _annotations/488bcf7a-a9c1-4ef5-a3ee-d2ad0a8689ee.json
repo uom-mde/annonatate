@@ -4,20 +4,21 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "UMIST",
-            "purpose": "commenting",
+            "created": "2024-08-15T09:02:22.726Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2024-08-15T09:02:22.726Z",
-            "modified": "2024-08-15T09:02:23.357Z"
+            "modified": "2024-08-15T09:02:23.357Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "UMIST"
         }
     ],
+    "id": "488bcf7a-a9c1-4ef5-a3ee-d2ad0a8689ee.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +31,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=60.7884635925293,49.96153259277344,2709.0252571105957,2181.6537017822266"
+            "value": "xywh=60.7884635925293,49.96153259277344,2686.8201789855957,2198.3075103759766"
         }
     },
-    "id": "488bcf7a-a9c1-4ef5-a3ee-d2ad0a8689ee.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
