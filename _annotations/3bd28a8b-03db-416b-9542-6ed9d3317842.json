@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~14~14~3073~297250/canvas/c1"
+order: 12
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Ferranti Building",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-08-15T09:07:38.724Z",
+            "modified": "2024-08-15T09:07:41.435Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~14~14~3073~297250/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~14~14~3073~297250/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1866.3428955078125,624.5192260742188,371.9359130859375,427.44866943359375"
+        }
+    },
+    "id": "3bd28a8b-03db-416b-9542-6ed9d3317842.json",
+    "motivation": "commenting"
+}
