@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~14~14~3073~297250/canvas/c1"
+order: 14
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Swinging Sporran pub and UMIST car park",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-08-15T09:08:18.708Z",
+            "modified": "2024-08-15T09:08:29.834Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~14~14~3073~297250/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~14~14~3073~297250/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1064.1826171875,1415.576904296875,238.7052001953125,546.80126953125"
+        }
+    },
+    "id": "31f154e9-d6cf-4a4f-889a-5d3cfb5f4200.json",
+    "motivation": "commenting"
+}
