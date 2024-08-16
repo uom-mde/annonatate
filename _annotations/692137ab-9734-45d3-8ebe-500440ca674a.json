@@ -3,20 +3,22 @@ canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~447436~
 order: 3
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Area C",
-            "purpose": "commenting",
+            "created": "2024-08-16T08:54:34.882Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2024-08-16T08:54:34.882Z",
-            "modified": "2024-08-16T08:54:36.963Z"
+            "modified": "2024-08-16T08:54:36.963Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Area C"
         }
     ],
+    "id": "692137ab-9734-45d3-8ebe-500440ca674a.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~447436~297487",
@@ -24,13 +26,11 @@ order: 3
         },
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"1825.8253173828125,2403.78466796875 3784.15869140625,1646.208740234375 3929.525790605387,2021.9826150696122 1971.1924165819496,2779.558542803987\" /></svg>"
+            "value": "<svg><polygon points=\"1825.8253173828125,2388.63330078125 3769.92431640625,1613.636474609375 3934.5262707702846,2026.5446103717948 1990.427271746847,2801.54143654367\"></polygon></svg>"
         },
         "renderedVia": {
             "name": "annotorious-tilted-box"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "692137ab-9734-45d3-8ebe-500440ca674a.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
