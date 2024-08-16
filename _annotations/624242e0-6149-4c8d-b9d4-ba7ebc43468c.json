@@ -3,34 +3,34 @@ canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~447436~
 order: 2
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Area A",
-            "purpose": "commenting",
+            "created": "2024-08-16T08:53:06.618Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2024-08-16T08:53:06.618Z",
-            "modified": "2024-08-16T08:53:08.706Z"
+            "modified": "2024-08-16T08:53:08.706Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Area A"
         }
     ],
+    "id": "624242e0-6149-4c8d-b9d4-ba7ebc43468c.json",
+    "motivation": "commenting",
     "target": {
-        "source": {
-            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~447436~297487",
-            "type": "image"
+        "renderedVia": {
+            "name": "annotorious-tilted-box"
         },
         "selector": {
             "type": "SvgSelector",
             "value": "<svg><polygon points=\"4065.442626953125,1878.787841796875 1942.2728271484375,2719.697021484375 2598.619611298025,4376.874400405602 4721.789411102713,3535.9652207181016\"></polygon></svg>"
         },
-        "renderedVia": {
-            "name": "annotorious-tilted-box"
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~447436~297487",
+            "type": "image"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "624242e0-6149-4c8d-b9d4-ba7ebc43468c.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
