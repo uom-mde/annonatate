@@ -1,0 +1,34 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~447730~298024"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Major George Broadfoot, C. B. (image)",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-10-08T09:46:16.721Z",
+            "modified": "2024-10-08T09:46:35.847Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~447730~298024",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1306.3636474609375,1356.0606689453125,2560.6060791015625,3272.7274169921875"
+        }
+    },
+    "id": "4f9ced75-d65c-4075-b05d-643e1265afd6.json",
+    "motivation": "commenting"
+}
