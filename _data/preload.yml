@@ -1,4 +1,10 @@
 images:
+- added: '2024-10-29 11:10:36.334104'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~10~10~4642~280259/full/!1024,1024/0/default.jpg
+  title: Page of text with diagrams
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~10~10~4642~280259/manifest
+  user: Manchester Digital Exhibitions
 - added: '2024-10-08 09:42:56.025411'
   iiif: true
   thumbnail: ''
