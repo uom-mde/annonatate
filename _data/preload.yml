@@ -1,4 +1,10 @@
 images:
+- added: '2024-10-29 15:02:42.758979'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://www.digitalcollections.manchester.ac.uk/iiif/MS-ITALIAN-00002
+  user: Manchester Digital Exhibitions
 - added: '2024-10-29 14:49:32.951873'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/maps002~1~1~415996~297934/full/!1024,1024/0/default.jpg
