@@ -1,4 +1,10 @@
 images:
+- added: '2024-11-04 15:58:18.415668'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~445162~289101page0/full/!1024,1024/0/default.jpg
+  title: Unknown
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~445162~289101/manifest
+  user: Manchester Digital Exhibitions
 - added: '2024-10-31 15:50:02.358312'
   iiif: true
   thumbnail: https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__JRL240801912.tif/full/120,/0/default.jpg
