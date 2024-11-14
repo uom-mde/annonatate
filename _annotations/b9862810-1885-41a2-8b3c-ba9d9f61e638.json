@@ -4,21 +4,27 @@ order: 4
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "The shachuan in our illustration is being used as a warship. The table of contents of this item categorises all illustrated ships as \u201cwarships\u201d (bingchuan \u5175\n\u8239) which makes sense as this book is of a military nature. This ship may have sailed in the open sea; or it might have been used on rivers and lakes\u2014where several crucial battles in Chinese history were fought.",
-            "purpose": "commenting",
+            "created": "2024-11-14T10:23:40.352Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2024-11-14T10:23:40.352Z",
-            "modified": "2024-11-14T10:24:57.597Z"
+            "modified": "2024-11-14T10:40:50.501Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "The shachuan in our illustration is being used as a warship. This ship may have sailed in the open sea, or used on rivers and lakes\u2014where several crucial battles in Chinese history were fought."
         }
     ],
+    "id": "b9862810-1885-41a2-8b3c-ba9d9f61e638.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3530.94482421875,1472.7464599609375,2837.1923828125,3815.2950439453125"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444312~290214/manifest",
@@ -26,13 +32,7 @@ order: 4
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444312~290214/canvas/c1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3530.94482421875,1472.7464599609375,2837.1923828125,3815.2950439453125"
         }
     },
-    "id": "b9862810-1885-41a2-8b3c-ba9d9f61e638.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
