@@ -3,33 +3,40 @@ canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~43962
 order: 1
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "This is the general thumb index, reminding us what we are currently reading, to be read from top to bottom. Transliteration: Xiyou zhenquan tuxiang. Translation: \"Complete Narrative of the Journey to the West, with Illustrations\". This style of thumb index is very typical for Chinese books and can be seen in other exhibition items as well.",
-            "purpose": "commenting",
+            "created": "2023-01-12T16:17:44.199Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-01-12T16:17:44.199Z",
-            "modified": "2023-01-12T16:19:27.023Z"
+            "modified": "2024-11-14T11:05:59.667Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "This is the general thumb index, reminding us what we are currently reading, to be read from top to bottom. Translation: \"Complete Narrative of the Journey to the West, with Illustrations\". This style of thumb index is very typical for Chinese books and can be seen in other exhibition items as well."
         }
     ],
+    "id": "dcd94a59-458c-4557-bd8c-9395f12b6447.json",
+    "motivation": "commenting",
     "target": {
-        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439623~269893/canvas/c1",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=557.6444091796875,1326.644287109375,462.63348388671875,1507.842529296875"
-        },
         "dcterms:isPartOf": {
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439623~269893/manifest?manifest=https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439623~269893/manifest",
             "type": "Manifest"
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=557.6444091796875,1326.644287109375,462.63348388671875,1507.842529296875"
+        },
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439623~269893/manifest?manifest=https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439623~269893/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~439623~269893/canvas/c1",
+            "type": "Canvas"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "dcd94a59-458c-4557-bd8c-9395f12b6447.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
