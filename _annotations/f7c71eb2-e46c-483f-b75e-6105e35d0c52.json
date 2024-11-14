@@ -4,21 +4,27 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "The sand ship, a type of flat-bottomed ship, was used along the coast or for inland transport, e.g. sailing\nup and down the Grand Canal between Beijing and Hangzhou which had been renovated in the early Ming dynasty (around two centuries before this book was written).",
-            "purpose": "commenting",
+            "created": "2024-11-14T10:21:55.829Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2024-11-14T10:21:55.829Z",
-            "modified": "2024-11-14T10:22:32.724Z"
+            "modified": "2024-11-14T10:22:32.724Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "The sand ship, a type of flat-bottomed ship, was used along the coast or for inland transport, e.g. sailing\nup and down the Grand Canal between Beijing and Hangzhou which had been renovated in the early Ming dynasty (around two centuries before this book was written)."
         }
     ],
+    "id": "f7c71eb2-e46c-483f-b75e-6105e35d0c52.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3524.008056640625,2069.31982421875,2871.876708984375,2740.07568359375"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444312~290214/manifest",
@@ -26,13 +32,7 @@ order: 2
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444312~290214/canvas/c1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3524.008056640625,2069.31982421875,2871.876708984375,2740.07568359375"
         }
     },
-    "id": "f7c71eb2-e46c-483f-b75e-6105e35d0c52.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
