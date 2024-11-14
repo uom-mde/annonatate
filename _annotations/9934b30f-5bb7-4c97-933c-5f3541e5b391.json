@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444312~290214/canvas/c1"
+order: 5
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The text points out, for example, that \u201cthe bottom of the sand ship is flat. It should not be used in the great waves of deep water\u201d. The red arrow points to the word \u6d6a \u201cwaves\u201d in that sentence.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-11-14T10:25:51.369Z",
+            "modified": "2024-11-14T10:26:13.678Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444312~290214/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444312~290214/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1553.9283447265625,4719.2158203125,228.917724609375,208.10693359375"
+        }
+    },
+    "id": "9934b30f-5bb7-4c97-933c-5f3541e5b391.json",
+    "motivation": "commenting"
+}
