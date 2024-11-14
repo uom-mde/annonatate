@@ -4,21 +4,27 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "These three characters are read (top-to-bottom): \u6c99\u8239\u5f0f, \u201cSand ship type.\u201d This kind of ship is\nusually translated as \u2018sand ship\u2019, \u2018shallow water ship\u2019, or \u2018junk\u2019.",
-            "purpose": "commenting",
+            "created": "2024-11-14T10:18:34.591Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2024-11-14T10:18:34.591Z",
-            "modified": "2024-11-14T10:21:01.572Z"
+            "modified": "2024-11-14T10:41:06.462Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "These three characters are read (top-to-bottom): \u6c99\u8239\u5f0f, \u201cSand ship type.\u201d"
         }
     ],
+    "id": "e7003c6c-8fcb-4a82-a830-326c8db190e1.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=6104.53515625,1507.4310302734375,291.349609375,596.5733642578125"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444312~290214/manifest",
@@ -26,13 +32,7 @@ order: 1
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444312~290214/canvas/c1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=6104.53515625,1507.4310302734375,291.349609375,596.5733642578125"
         }
     },
-    "id": "e7003c6c-8fcb-4a82-a830-326c8db190e1.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
