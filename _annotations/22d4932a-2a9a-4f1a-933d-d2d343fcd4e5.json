@@ -1,0 +1,34 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~14~14~177~145031"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "UMIST main building",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-11-18T18:02:21.293Z",
+            "modified": "2024-11-18T18:02:25.158Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~14~14~177~145031",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=552.3013916015625,59.76429748535156,5319.8651123046875,6422.558944702148"
+        }
+    },
+    "id": "22d4932a-2a9a-4f1a-933d-d2d343fcd4e5.json",
+    "motivation": "commenting"
+}
