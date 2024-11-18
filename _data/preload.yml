@@ -1,4 +1,10 @@
 images:
+- added: '2024-11-18 18:01:51.986981'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~14~14~177~145031
+  user: Manchester Digital Exhibitions
 - added: '2024-11-14 10:18:16.906400'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~444312~290214/full/!1024,1024/0/default.jpg
