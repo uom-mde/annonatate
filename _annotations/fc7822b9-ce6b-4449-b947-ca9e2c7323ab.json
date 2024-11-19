@@ -4,20 +4,21 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Aramaic and Judeo-Arabic translation in alternating verses",
-            "purpose": "commenting",
+            "created": "2024-11-19T09:37:17.121Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2024-11-19T09:37:17.121Z",
-            "modified": "2024-11-19T09:37:18.803Z"
+            "modified": "2024-11-19T09:37:18.803Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Aramaic and Judeo-Arabic translation in alternating verses"
         }
     ],
+    "id": "fc7822b9-ce6b-4449-b947-ca9e2c7323ab.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~10~10~4813~283275",
@@ -25,9 +26,8 @@ order: 2
         },
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"581.6,4061.9 589.1,4001.8 596.6,412.9 4117.9,428 4110.4,1283.9 2030.6,1306.4 2053.2,4137 589.1,4144.5\"></polygon></svg>"
+            "value": "<svg><polygon points=\"588.8,4064.4 589.1,4001.8 596.6,412.9 4117.9,428 4110.4,1283.9 2030.6,1306.4 2053.2,4137 589.1,4144.5\"></polygon></svg>"
         }
     },
-    "id": "fc7822b9-ce6b-4449-b947-ca9e2c7323ab.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
