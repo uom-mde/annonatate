@@ -4,34 +4,34 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Recipe in German in Latin script at the top and in Yiddish in Hebrew script underneath.",
-            "purpose": "commenting",
+            "created": "2023-10-27T15:42:32.854Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2023-10-27T15:42:32.854Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Recipe in German in Latin script at the top and in Yiddish in Hebrew script underneath."
         }
     ],
+    "id": "9af20d28-6545-4130-a780-6f1d1a667424.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=80.26737976074219,1584.7254638671875,4788.544143676758,2757.0406494140625"
+        },
         "source": {
             "partOf": {
-                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118?manifest=https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118",
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118",
                 "type": "Manifest"
             },
             "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GASTER-HEBREW-00118/canvas/64",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=80.26737976074219,1584.7254638671875,4788.544143676758,2757.0406494140625"
         }
     },
-    "id": "9af20d28-6545-4130-a780-6f1d1a667424.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
