@@ -1,0 +1,34 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~10~10~4813~283275"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Original Hebrew text",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-11-19T09:35:10.265Z",
+            "modified": "2024-11-19T09:35:15.089Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~10~10~4813~283275",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2045.6513671875,1306.4195556640625,4797.712890625,3491.2933349609375"
+        }
+    },
+    "id": "ea884606-d47e-40b1-ab33-c46a0ee595db.json",
+    "motivation": "commenting"
+}
