@@ -1,0 +1,33 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~10~10~4813~283275"
+order: 5
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Rashi's commentary.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-11-19T09:55:58.799Z",
+            "modified": "2024-11-19T09:56:00.693Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~10~10~4813~283275",
+            "type": "image"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"8269.9,5616.1 4711,5631.1 4711,4790.2 6835.9,4797.7 6843.4,4099.5 8284.9,4122\"></polygon></svg>"
+        }
+    },
+    "id": "110f1658-7771-46a1-9357-0db3d0ac3953.json",
+    "motivation": "commenting"
+}
