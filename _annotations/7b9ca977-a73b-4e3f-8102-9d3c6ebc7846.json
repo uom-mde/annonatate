@@ -1,0 +1,33 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~10~10~4813~283275"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Aramaic and Judeo-Arabic translation in alternating verses.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-11-19T09:46:05.024Z",
+            "modified": "2024-11-19T09:46:09.326Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~10~10~4813~283275",
+            "type": "image"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"4718.5556640625,420.45684814453125 8307.455078125,420.45684814453125 8277.4228515625,4106.96240234375 6850.87255859375,4114.470703125 6835.8564453125,1291.4031982421875 4718.5556640625,1283.89501953125\"></polygon></svg>"
+        }
+    },
+    "id": "7b9ca977-a73b-4e3f-8102-9d3c6ebc7846.json",
+    "motivation": "commenting"
+}
