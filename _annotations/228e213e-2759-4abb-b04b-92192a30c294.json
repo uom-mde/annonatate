@@ -1,0 +1,38 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00036/canvas/899"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Hebrew MS 36 - Bookplate",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-12-23T19:40:41.316Z",
+            "modified": "2024-12-23T19:40:51.036Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00036",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00036/canvas/899",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=26.09487533569336,17.802621841430664,4538.793308258057,6471.983022689819"
+        }
+    },
+    "id": "228e213e-2759-4abb-b04b-92192a30c294.json",
+    "motivation": "commenting"
+}
