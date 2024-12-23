@@ -1,0 +1,38 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00039/canvas/79"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The Two Tables of the Law, illustrating the poem Dayyenu with the beginning of each Commandment in English.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2024-12-23T19:20:43.380Z",
+            "modified": "2024-12-23T19:20:52.472Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00039",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-HEBREW-00039/canvas/79",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2337.371337890625,894.0933837890625,859.1953125,1050.6466064453125"
+        }
+    },
+    "id": "67b4b933-7b05-459d-843a-b11e82e5d395.json",
+    "motivation": "commenting"
+}
