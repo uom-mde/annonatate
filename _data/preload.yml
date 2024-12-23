@@ -1,4 +1,10 @@
 images:
+- added: '2024-12-23 19:23:06.980171'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~10~10~4810~283278/full/!1024,1024/0/default.jpg
+  title: Script with illustrations
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~10~10~4810~283278/manifest
+  user: Manchester Digital Exhibitions
 - added: '2024-12-23 19:19:52.721063'
   iiif: true
   thumbnail: ''
