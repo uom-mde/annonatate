@@ -1,0 +1,40 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~441625~274388/canvas/c1/page910"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "JRL22390955",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2025-02-21T11:49:57.941Z",
+            "modified": "2025-02-21T11:50:02.670Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~441625~274388/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~441625~274388/canvas/c1/page910",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1330.8497314453125,2045.6480712890625 1699.5001220703125,2089.0185546875 1626.2785013071737,2711.4044951102724 1257.6281106821737,2668.034011711835\" /></svg>"
+        },
+        "renderedVia": {
+            "name": "annotorious-tilted-box"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1fc0232d-9b4e-49c9-9643-f43867c99755.json",
+    "motivation": "commenting"
+}
