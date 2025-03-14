@@ -1,0 +1,34 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~25~25~2614~296940"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Letter from Reinhold Rost",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2025-03-14T11:20:34.405Z",
+            "modified": "2025-03-14T11:20:44.909Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~25~25~2614~296940",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=464.8636474609375,2549.242431640625,1892.0455322265625,3420.454345703125"
+        }
+    },
+    "id": "7cc30c4a-2c34-4a8a-9daa-2456ffce6ee0.json",
+    "motivation": "commenting"
+}
