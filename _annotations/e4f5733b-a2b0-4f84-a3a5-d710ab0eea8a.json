@@ -4,20 +4,21 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Letter from Rost",
-            "purpose": "commenting",
+            "created": "2025-03-14T11:22:19.549Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2025-03-14T11:22:19.549Z",
-            "modified": "2025-03-14T11:22:22.940Z"
+            "modified": "2025-03-14T11:22:22.940Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Letter from Rost"
         }
     ],
+    "id": "e4f5733b-a2b0-4f84-a3a5-d710ab0eea8a.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~25~25~2614~296940",
@@ -26,9 +27,8 @@ order: 3
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=466.757568359375,3109.848388671875,1890.151611328125,2821.969970703125"
+            "value": "xywh=466.757568359375,3109.848388671875,1878.787841796875,2856.060791015625"
         }
     },
-    "id": "e4f5733b-a2b0-4f84-a3a5-d710ab0eea8a.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
