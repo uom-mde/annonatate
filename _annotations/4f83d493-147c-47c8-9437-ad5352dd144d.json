@@ -4,21 +4,27 @@ order: 12
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "The Exchange",
-            "purpose": "commenting",
+            "created": "2025-03-17T13:47:37.202Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2025-03-17T13:47:37.202Z",
-            "modified": "2025-03-17T13:47:40.024Z"
+            "modified": "2025-03-17T21:14:32.904Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "12. The Exchange"
         }
     ],
+    "id": "4f83d493-147c-47c8-9437-ad5352dd144d.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3726.733642578125,1048.7974853515625,234.545654296875,124.54541015625"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~414976~212944/manifest",
@@ -26,13 +32,7 @@ order: 12
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~414976~212944/canvas/c1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3726.733642578125,1048.7974853515625,234.545654296875,124.54541015625"
         }
     },
-    "id": "4f83d493-147c-47c8-9437-ad5352dd144d.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
