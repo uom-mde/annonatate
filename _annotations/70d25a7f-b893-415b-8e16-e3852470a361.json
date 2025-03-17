@@ -4,21 +4,27 @@ order: 10
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "The late Mr Houghton's Summer House",
-            "purpose": "commenting",
+            "created": "2025-03-17T13:47:02.257Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2025-03-17T13:47:02.257Z",
-            "modified": "2025-03-17T13:47:11.177Z"
+            "modified": "2025-03-17T21:14:13.959Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "10. The late Mr Houghton's Summer House"
         }
     ],
+    "id": "70d25a7f-b893-415b-8e16-e3852470a361.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3303.097412109375,1329.70654296875,226.363525390625,188.181884765625"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~414976~212944/manifest",
@@ -26,13 +32,7 @@ order: 10
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~414976~212944/canvas/c1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3303.097412109375,1329.70654296875,226.363525390625,188.181884765625"
         }
     },
-    "id": "70d25a7f-b893-415b-8e16-e3852470a361.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
