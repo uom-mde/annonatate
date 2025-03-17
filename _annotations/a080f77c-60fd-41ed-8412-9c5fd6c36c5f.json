@@ -4,21 +4,27 @@ order: 25
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "The River Irwell",
-            "purpose": "commenting",
+            "created": "2025-03-17T21:09:30.944Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2025-03-17T21:09:30.944Z",
-            "modified": "2025-03-17T21:09:33.239Z"
+            "modified": "2025-03-17T21:17:15.361Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "25. The River Irwell"
         }
     ],
+    "id": "a080f77c-60fd-41ed-8412-9c5fd6c36c5f.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2867.869384765625,1618.5997314453125,3568.876708984375,1027.4959716796875"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~414976~212944/manifest",
@@ -26,13 +32,7 @@ order: 25
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~414976~212944/canvas/c1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=2867.869384765625,1618.5997314453125,3568.876708984375,1027.4959716796875"
         }
     },
-    "id": "a080f77c-60fd-41ed-8412-9c5fd6c36c5f.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
