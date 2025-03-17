@@ -4,21 +4,27 @@ order: 9
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "The 7 Houses in Paronage",
-            "purpose": "commenting",
+            "created": "2025-03-17T13:46:18.008Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2025-03-17T13:46:18.008Z",
-            "modified": "2025-03-17T13:46:23.162Z"
+            "modified": "2025-03-17T21:14:02.033Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "9. The 7 Houses in Paronage"
         }
     ],
+    "id": "6cea3a9c-9770-4e2d-974f-7568575cad8c.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3104.91552734375,1201.5247802734375,421.818359375,216.3636474609375"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~414976~212944/manifest",
@@ -26,13 +32,7 @@ order: 9
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~414976~212944/canvas/c1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3104.91552734375,1201.5247802734375,421.818359375,216.3636474609375"
         }
     },
-    "id": "6cea3a9c-9770-4e2d-974f-7568575cad8c.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
