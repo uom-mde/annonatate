@@ -4,21 +4,27 @@ order: 17
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Dole Field",
-            "purpose": "commenting",
+            "created": "2025-03-17T21:06:20.536Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2025-03-17T21:06:20.536Z",
-            "modified": "2025-03-17T21:06:22.864Z"
+            "modified": "2025-03-17T21:15:28.626Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "17. Dole Field"
         }
     ],
+    "id": "a078e361-db5f-48ab-aa6c-b78d153cff7a.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3728.92919921875,1212.7691650390625,1858.9169921875,354.1517333984375"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~414976~212944/manifest",
@@ -26,13 +32,7 @@ order: 17
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~414976~212944/canvas/c1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3728.92919921875,1212.7691650390625,1858.9169921875,354.1517333984375"
         }
     },
-    "id": "a078e361-db5f-48ab-aa6c-b78d153cff7a.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
