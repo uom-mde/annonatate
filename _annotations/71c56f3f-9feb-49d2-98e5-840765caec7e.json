@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~414976~212944/canvas/c1"
+order: 14
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Mr Wilkinson's Garden",
+            "purpose": "commenting",
+            "creator": {
+                "id": "uom-mde",
+                "name": "Manchester Digital Exhibitions"
+            },
+            "created": "2025-03-17T21:05:10.577Z",
+            "modified": "2025-03-17T21:05:14.207Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~414976~212944/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~414976~212944/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3447.73583984375,1533.481689453125,1413.56689453125,607.98583984375"
+        }
+    },
+    "id": "71c56f3f-9feb-49d2-98e5-840765caec7e.json",
+    "motivation": "commenting"
+}
