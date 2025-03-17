@@ -4,21 +4,27 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Mr Miles Nield's House",
-            "purpose": "commenting",
+            "created": "2025-03-17T13:44:05.627Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2025-03-17T13:44:05.627Z",
-            "modified": "2025-03-17T13:44:11.354Z"
+            "modified": "2025-03-17T21:12:13.690Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "2. Mr Miles Nield's House"
         }
     ],
+    "id": "1cfa3d71-1336-4493-a00a-48b1a97d24b0.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1431.2791748046875,1198.7974853515625,189.0909423828125,194.54541015625"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~414976~212944/manifest",
@@ -26,13 +32,7 @@ order: 2
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~414976~212944/canvas/c1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1431.2791748046875,1198.7974853515625,189.0909423828125,194.54541015625"
         }
     },
-    "id": "1cfa3d71-1336-4493-a00a-48b1a97d24b0.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
