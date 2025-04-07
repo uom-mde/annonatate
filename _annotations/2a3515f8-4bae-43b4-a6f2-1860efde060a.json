@@ -4,20 +4,21 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Sikh states under British protection",
-            "purpose": "commenting",
+            "created": "2025-04-07T10:47:56.062Z",
             "creator": {
                 "id": "uom-mde",
                 "name": "Manchester Digital Exhibitions"
             },
-            "created": "2025-04-07T10:47:56.062Z",
-            "modified": "2025-04-07T10:48:03.981Z"
+            "modified": "2025-04-07T10:48:03.981Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Sikh states under British protection"
         }
     ],
+    "id": "2a3515f8-4bae-43b4-a6f2-1860efde060a.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +31,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3935.398681640625,3489.84619140625,1394.741455078125,263.384765625"
+            "value": "xywh=3935.398681640625,3489.84619140625,1395.489013671875,299.300537109375"
         }
     },
-    "id": "2a3515f8-4bae-43b4-a6f2-1860efde060a.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
