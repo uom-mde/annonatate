@@ -1,0 +1,34 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/maps002~1~1~340173~123166"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Heywood & Co's Bank",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2025-07-28T14:02:14.857Z",
+            "modified": "2025-07-28T14:02:22.337Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/maps002~1~1~340173~123166",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1146.1114501953125,2646.613037109375,774.1463623046875,333.850830078125"
+        }
+    },
+    "id": "6564d9b3-55a9-41ae-9bfb-27b8d6e0c7a2.json",
+    "motivation": "commenting"
+}
