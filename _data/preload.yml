@@ -1,4 +1,10 @@
 images:
+- added: '2025-09-05 15:55:53.703885'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~43232~102017/full/!1024,1024/0/default.jpg
+  title: McConnel & Kennedy
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~43232~102017/manifest
+  user: johndmccrory
 - added: '2025-07-28 13:59:19.131137'
   iiif: true
   thumbnail: ''
