@@ -4,21 +4,27 @@ order: 10
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "k. Gasometer houses",
-            "purpose": "commenting",
+            "created": "2025-09-05T16:15:51.539Z",
             "creator": {
                 "id": "johndmccrory",
                 "name": "johndmccrory"
             },
-            "created": "2025-09-05T16:15:51.539Z",
-            "modified": "2025-09-05T16:15:58.787Z"
+            "modified": "2025-09-08T13:46:19.831Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "k. Gasometer houses."
         }
     ],
+    "id": "102e56f7-83a9-4afc-a8f5-a5801d3dedb9.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3064.963623046875,1813.1651611328125,771.030517578125,261.1553955078125"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~43232~102017/manifest",
@@ -26,13 +32,7 @@ order: 10
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~43232~102017/canvas/c1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3064.963623046875,1813.1651611328125,771.030517578125,261.1553955078125"
         }
     },
-    "id": "102e56f7-83a9-4afc-a8f5-a5801d3dedb9.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
