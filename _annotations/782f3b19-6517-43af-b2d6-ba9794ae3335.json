@@ -4,21 +4,27 @@ order: 4
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Gateway &. 4 stories over the same",
-            "purpose": "commenting",
+            "created": "2025-09-05T16:12:00.693Z",
             "creator": {
                 "id": "johndmccrory",
                 "name": "johndmccrory"
             },
-            "created": "2025-09-05T16:12:00.693Z",
-            "modified": "2025-09-05T16:12:16.340Z"
+            "modified": "2025-09-08T13:44:37.265Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "d. Gateway &. 4 stories over the same"
         }
     ],
+    "id": "782f3b19-6517-43af-b2d6-ba9794ae3335.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2915.73193359375,2432.476806640625,261.155517578125,141.77001953125"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~43232~102017/manifest",
@@ -26,13 +32,7 @@ order: 4
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~43232~102017/canvas/c1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=2915.73193359375,2432.476806640625,261.155517578125,141.77001953125"
         }
     },
-    "id": "782f3b19-6517-43af-b2d6-ba9794ae3335.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
