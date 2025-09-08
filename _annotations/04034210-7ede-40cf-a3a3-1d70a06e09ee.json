@@ -4,21 +4,27 @@ order: 5
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "e. Engine House. 3 stories & 5 1/4 stories above",
-            "purpose": "commenting",
+            "created": "2025-09-05T16:12:48.148Z",
             "creator": {
                 "id": "johndmccrory",
                 "name": "johndmccrory"
             },
-            "created": "2025-09-05T16:12:48.148Z",
-            "modified": "2025-09-05T16:13:07.636Z"
+            "modified": "2025-09-08T13:44:59.873Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "e. Engine House. 3 stories & 5 1/4 stories above "
         }
     ],
+    "id": "04034210-7ede-40cf-a3a3-1d70a06e09ee.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2933.142333984375,2519.528564453125,221.3603515625,497.43896484375"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~43232~102017/manifest",
@@ -26,13 +32,7 @@ order: 5
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~43232~102017/canvas/c1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=2933.142333984375,2519.528564453125,221.3603515625,497.43896484375"
         }
     },
-    "id": "04034210-7ede-40cf-a3a3-1d70a06e09ee.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
