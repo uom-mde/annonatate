@@ -4,21 +4,27 @@ order: 9
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "i. Stable and hay loft, and picking room. Reeling rooms, over the cottages in Maria Street",
-            "purpose": "commenting",
+            "created": "2025-09-05T16:15:01.003Z",
             "creator": {
                 "id": "johndmccrory",
                 "name": "johndmccrory"
             },
-            "created": "2025-09-05T16:15:01.003Z",
-            "modified": "2025-09-05T16:15:25.979Z"
+            "modified": "2025-09-08T13:46:12.800Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "i. Stable and hay loft, and picking room. Reeling rooms, over the cottages in Maria Street."
         }
     ],
+    "id": "3a5b213c-a6a1-4c71-b74f-1011ef801544.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3756.40380859375,1862.9090576171875,450.18212890625,263.6427001953125"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~43232~102017/manifest",
@@ -26,13 +32,7 @@ order: 9
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~43232~102017/canvas/c1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3756.40380859375,1862.9090576171875,450.18212890625,263.6427001953125"
         }
     },
-    "id": "3a5b213c-a6a1-4c71-b74f-1011ef801544.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
