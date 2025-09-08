@@ -4,21 +4,27 @@ order: 6
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "f. Factory 8 1/4 stories high",
-            "purpose": "commenting",
+            "created": "2025-09-05T16:13:53.653Z",
             "creator": {
                 "id": "johndmccrory",
                 "name": "johndmccrory"
             },
-            "created": "2025-09-05T16:13:53.653Z",
-            "modified": "2025-09-05T16:14:05.195Z"
+            "modified": "2025-09-08T13:45:12.738Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "f. Factory 8 1/4 stories high "
         }
     ],
+    "id": "6a8d5236-58d3-4aba-b373-7051c4655cf6.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3097.297119140625,2591.6572265625,1129.186767578125,425.310302734375"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~43232~102017/manifest",
@@ -26,13 +32,7 @@ order: 6
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~43232~102017/canvas/c1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3097.297119140625,2591.6572265625,1129.186767578125,425.310302734375"
         }
     },
-    "id": "6a8d5236-58d3-4aba-b373-7051c4655cf6.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
