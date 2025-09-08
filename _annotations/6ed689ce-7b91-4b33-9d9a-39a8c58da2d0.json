@@ -4,21 +4,27 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Cottage, one story",
-            "purpose": "commenting",
+            "created": "2025-09-05T16:09:21.053Z",
             "creator": {
                 "id": "johndmccrory",
                 "name": "johndmccrory"
             },
-            "created": "2025-09-05T16:09:21.053Z",
-            "modified": "2025-09-05T16:09:25.652Z"
+            "modified": "2025-09-08T13:44:10.729Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "a. Cottage, one story"
         }
     ],
+    "id": "6ed689ce-7b91-4b33-9d9a-39a8c58da2d0.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2790.128662109375,1785.80615234375,348.207275390625,233.79638671875"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~43232~102017/manifest",
@@ -26,13 +32,7 @@ order: 1
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~43232~102017/canvas/c1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=2790.128662109375,1785.80615234375,348.207275390625,233.79638671875"
         }
     },
-    "id": "6ed689ce-7b91-4b33-9d9a-39a8c58da2d0.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
