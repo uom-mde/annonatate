@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~281799~290597/canvas/c1"
+order: 6
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Rev. Silvester Horne's Address",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2025-09-12T09:58:05.967Z",
+            "modified": "2025-09-12T09:58:17.976Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~281799~290597/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~281799~290597/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2957.238037109375,566.768310546875,1169.207275390625,2516.768310546875"
+        }
+    },
+    "id": "b935b3d4-b820-4403-9d28-f4eadc31d1e7.json",
+    "motivation": "commenting"
+}
