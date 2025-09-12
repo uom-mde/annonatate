@@ -1,4 +1,10 @@
 images:
+- added: '2025-09-12 09:50:50.806639'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~281799~290597/full/!1024,1024/0/default.jpg
+  title: Funeral cuttings of Enriqueta Augustina Rylands
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~281799~290597/manifest
+  user: johndmccrory
 - added: '2025-09-08 15:35:30.848980'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~446371~293035/full/!0,0/0/default.jpg
