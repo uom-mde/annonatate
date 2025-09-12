@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~281799~290597/canvas/c1"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Manchester Courier, 10/2/1908",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2025-09-12T09:53:10.129Z",
+            "modified": "2025-09-12T09:53:18.312Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~281799~290597/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~281799~290597/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=868.518310546875,1117.6829833984375,1319.817138671875,2116.4635009765625"
+        }
+    },
+    "id": "9d91afcb-8e17-4e29-8476-d02693d0f584.json",
+    "motivation": "commenting"
+}
