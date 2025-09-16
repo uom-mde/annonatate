@@ -1,4 +1,10 @@
 images:
+- added: '2025-09-16 14:22:46.329833'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~102211~105952/full/!1024,1024/0/default.jpg
+  title: Legacy document
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~102211~105952/manifest
+  user: johndmccrory
 - added: '2025-09-12 09:50:50.806639'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~281799~290597/full/!1024,1024/0/default.jpg
