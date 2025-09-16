@@ -4,21 +4,27 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Signature of Maria Castiglioni",
-            "purpose": "commenting",
+            "created": "2025-09-16T14:23:30.166Z",
             "creator": {
                 "id": "johndmccrory",
                 "name": "johndmccrory"
             },
-            "created": "2025-09-16T14:23:30.166Z",
-            "modified": "2025-09-16T14:23:45.037Z"
+            "modified": "2025-09-16T14:23:45.037Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Signature of Maria Castiglioni"
         }
     ],
+    "id": "2ee4de42-2635-4c5d-b0d4-bf1fba62598a.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=240.0884246826172,525.5487670898438,2763.768020629883,1836.3291625976562"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~102211~105952/manifest",
@@ -26,13 +32,7 @@ order: 1
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~102211~105952/canvas/c1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=240.0884246826172,525.5487670898438,2763.768020629883,1836.3291625976562"
         }
     },
-    "id": "2ee4de42-2635-4c5d-b0d4-bf1fba62598a.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
