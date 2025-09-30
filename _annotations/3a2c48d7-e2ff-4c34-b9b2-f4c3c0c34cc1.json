@@ -4,20 +4,21 @@ order: 6
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Slaves bought/sold",
-            "purpose": "commenting",
+            "created": "2025-09-30T15:31:53.777Z",
             "creator": {
                 "id": "johndmccrory",
                 "name": "johndmccrory"
             },
-            "created": "2025-09-30T15:31:53.777Z",
-            "modified": "2025-09-30T15:31:59.984Z"
+            "modified": "2025-09-30T15:31:59.984Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Slaves bought/sold"
         }
     ],
+    "id": "3a2c48d7-e2ff-4c34-b9b2-f4c3c0c34cc1.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +31,8 @@ order: 6
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1464.97509765625,119.63639831542969,172.848876953125,203.6754608154297"
+            "value": "xywh=1464.97509765625,119.63639831542969,177.8031005859375,358.90919494628906"
         }
     },
-    "id": "3a2c48d7-e2ff-4c34-b9b2-f4c3c0c34cc1.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
