@@ -4,20 +4,21 @@ order: 10
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Year",
-            "purpose": "commenting",
+            "created": "2025-09-30T15:33:08.153Z",
             "creator": {
                 "id": "johndmccrory",
                 "name": "johndmccrory"
             },
-            "created": "2025-09-30T15:33:08.153Z",
-            "modified": "2025-09-30T15:33:08.552Z"
+            "modified": "2025-09-30T15:33:08.552Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Year"
         }
     ],
+    "id": "90553318-17d3-4e23-a943-369306cfe2bd.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +31,8 @@ order: 10
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=2539.500732421875,119.63639831542969,236.703857421875,200.3726348876953"
+            "value": "xywh=2539.500732421875,119.63639831542969,243.860107421875,358.90919494628906"
         }
     },
-    "id": "90553318-17d3-4e23-a943-369306cfe2bd.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
