@@ -4,20 +4,21 @@ order: 7
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Slaves died",
-            "purpose": "commenting",
+            "created": "2025-09-30T15:32:15.040Z",
             "creator": {
                 "id": "johndmccrory",
                 "name": "johndmccrory"
             },
-            "created": "2025-09-30T15:32:15.040Z",
-            "modified": "2025-09-30T15:32:17.785Z"
+            "modified": "2025-09-30T15:32:17.785Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Slaves died"
         }
     ],
+    "id": "22871916-ad11-4688-95cc-3e639451241b.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +31,8 @@ order: 7
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1642.227783203125,119.63639831542969,188.26220703125,202.5745086669922"
+            "value": "xywh=1642.227783203125,119.63639831542969,183.307861328125,358.90919494628906"
         }
     },
-    "id": "22871916-ad11-4688-95cc-3e639451241b.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
