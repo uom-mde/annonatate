@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~438336~238236/canvas/c1/page4"
+order: 8
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Sales",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2025-09-30T15:32:43.657Z",
+            "modified": "2025-09-30T15:32:44.680Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~438336~238236/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~438336~238236/canvas/c1/page4",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1834.893798828125,119.63639831542969,344.596923828125,202.5745086669922"
+        }
+    },
+    "id": "9e208920-2330-4e87-a7b8-599e0155eb53.json",
+    "motivation": "commenting"
+}
