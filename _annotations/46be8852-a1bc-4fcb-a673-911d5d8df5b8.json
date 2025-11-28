@@ -1,0 +1,40 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~340173~123166/canvas/c1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Cross Street Chapel in 1851",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2025-11-28T10:46:34.187Z",
+            "modified": "2025-11-28T10:47:06.587Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~340173~123166/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~340173~123166/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1967.4677734375,2701.276611328125 2086.050537109375,2655.04931640625 2158.28502089555,2840.3460060406355 2039.7022572236751,2886.5733009625105\" /></svg>"
+        },
+        "renderedVia": {
+            "name": "annotorious-tilted-box"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "46be8852-a1bc-4fcb-a673-911d5d8df5b8.json",
+    "motivation": "commenting"
+}
