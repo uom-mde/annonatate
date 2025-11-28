@@ -1,4 +1,10 @@
 images:
+- added: '2025-11-28 10:27:36.554589'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~446373~291736/full/!1024,1024/0/default.jpg
+  title: List of merchants, traders and principal inhabitants of Manchester
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~446373~291736/manifest
+  user: johndmccrory
 - added: '2025-11-28 10:19:34.919684'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~14~14~173~228457/full/!1024,1024/0/default.jpg
