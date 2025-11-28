@@ -4,20 +4,21 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Quay St building, original premises of Owens College.",
-            "purpose": "commenting",
+            "created": "2025-11-28T09:48:14.365Z",
             "creator": {
                 "id": "johndmccrory",
                 "name": "johndmccrory"
             },
-            "created": "2025-11-28T09:48:14.365Z",
-            "modified": "2025-11-28T09:48:16.257Z"
+            "modified": "2025-11-28T09:48:16.257Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Quay St building, original premises of Owens College."
         }
     ],
+    "id": "e9c22eaf-6653-46ae-9ec6-960a22a69240.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +31,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=789.8212890625,706.4285278320312,4780.71435546875,3959.2858276367188"
+            "value": "xywh=789.8212890625,743.3927612304688,4758.12451171875,3922.3215942382812"
         }
     },
-    "id": "e9c22eaf-6653-46ae-9ec6-960a22a69240.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
