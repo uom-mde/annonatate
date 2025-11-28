@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~14~14~2328~291269/canvas/c1/page6"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Benjamin Heywood proposes the establishment of the Manchester Mechanics Institution.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2025-11-28T09:18:33.624Z",
+            "modified": "2025-11-28T09:19:00.942Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~14~14~2328~291269/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~14~14~2328~291269/canvas/c1/page6",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=871.2415161132812,71.6185302734375,3225.3034057617188,1360.7520751953125"
+        }
+    },
+    "id": "78ba81f1-2612-4fa0-9f3a-c0a199db17ba.json",
+    "motivation": "commenting"
+}
