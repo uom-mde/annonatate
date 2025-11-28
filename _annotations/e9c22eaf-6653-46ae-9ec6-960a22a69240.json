@@ -31,7 +31,7 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=791.8749389648438,743.3927612304688,4756.070861816406,3893.5711059570312"
+            "value": "xywh=808.303466796875,731.0713500976562,4739.642333984375,3905.8925170898438"
         }
     },
     "type": "Annotation"
