@@ -1,0 +1,34 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~14~14~3199~302010"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Owens College, Manchester",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2025-12-01T16:29:27.144Z",
+            "modified": "2025-12-01T16:29:32.569Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~14~14~3199~302010",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=241.70733642578125,7.9268293380737305,4280.487976074219,6492.073170661926"
+        }
+    },
+    "id": "e567d52d-c7ad-43f8-a4ef-2c938307b5fc.json",
+    "motivation": "commenting"
+}
