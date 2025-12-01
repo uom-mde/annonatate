@@ -1,4 +1,10 @@
 images:
+- added: '2025-12-01 15:29:21.177465'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~446374~291735/full/!1024,1024/0/default.jpg
+  title: Receipt for payment
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~446374~291735/manifest
+  user: johndmccrory
 - added: '2025-12-01 12:42:08.429223'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/maps002~1~1~415974~290380/full/!1024,1024/0/default.jpg
