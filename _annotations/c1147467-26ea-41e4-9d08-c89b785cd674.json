@@ -4,20 +4,32 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
+            "created": "2025-12-01T12:44:06.397Z",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "modified": "2025-12-01T12:44:09.804Z",
+            "purpose": "commenting",
             "type": "TextualBody",
-            "value": "Seabrook Plantation",
+            "value": "Seabrook Plantation"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Seabrook Plantation, Seabrook Island, Fenwick Island, and Hanscombe Point on Johns Island.",
             "purpose": "commenting",
             "creator": {
                 "id": "johndmccrory",
                 "name": "johndmccrory"
             },
-            "created": "2025-12-01T12:44:06.397Z",
-            "modified": "2025-12-01T12:44:09.804Z"
+            "created": "2025-12-01T12:47:10.942Z",
+            "modified": "2025-12-01T12:47:22.220Z"
         }
     ],
+    "id": "c1147467-26ea-41e4-9d08-c89b785cd674.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +42,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3821.16015625,1802.1634521484375,122.727294921875,68.181884765625"
+            "value": "xywh=3805.908935546875,1770.1363525390625,177.272705078125,114.54541015625"
         }
     },
-    "id": "c1147467-26ea-41e4-9d08-c89b785cd674.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
