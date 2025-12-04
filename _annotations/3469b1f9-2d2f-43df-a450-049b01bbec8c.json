@@ -4,20 +4,21 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Illuminated ulvan - close crop",
-            "purpose": "commenting",
+            "created": "2025-12-04T15:22:05.364Z",
             "creator": {
                 "id": "johndmccrory",
                 "name": "johndmccrory"
             },
-            "created": "2025-12-04T15:22:05.364Z",
-            "modified": "2025-12-04T15:22:12.876Z"
+            "modified": "2025-12-04T15:22:12.876Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Illuminated ulvan - close crop"
         }
     ],
+    "id": "3469b1f9-2d2f-43df-a450-049b01bbec8c.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +31,8 @@ order: 2
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1020.6622314453125,283.4707336425781,3660.2532958984375,3396.675506591797"
+            "value": "xywh=975.9036865234375,288.44390869140625,3705.0118408203125,3391.7023315429688"
         }
     },
-    "id": "3469b1f9-2d2f-43df-a450-049b01bbec8c.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
