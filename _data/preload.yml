@@ -1,4 +1,10 @@
 images:
+- added: '2025-12-04 15:20:52.839997'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~423735~188625/full/!1024,1024/0/default.jpg
+  title: Illuminated unvan
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~423735~188625/manifest
+  user: johndmccrory
 - added: '2025-12-04 15:07:57.275867'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/maps002~1~1~415299~231384/full/!1024,1024/0/default.jpg
