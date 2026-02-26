@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~415974~290380/canvas/c1"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Test annotation",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2026-02-26T14:14:54.783Z",
+            "modified": "2026-02-26T14:14:57.630Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~415974~290380/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~415974~290380/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1277.6080322265625,2111.3759765625,1679.6380615234375,502.708740234375"
+        }
+    },
+    "id": "bcfdd99a-57ba-42f7-9908-411872b84c7c.json",
+    "motivation": "commenting"
+}
