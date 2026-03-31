@@ -1,0 +1,34 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~102186~105950"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "List of books",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2026-03-31T16:03:32.870Z",
+            "modified": "2026-03-31T16:03:36.021Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~102186~105950",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=139.63560485839844,140.53115844726562,3257.7677154541016,4988.856048583984"
+        }
+    },
+    "id": "1f92a49b-938a-45dd-95e3-54db93686e2e.json",
+    "motivation": "commenting"
+}
