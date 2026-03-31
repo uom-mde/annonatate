@@ -1,0 +1,34 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~282025~298132"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "auction catalogue",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2026-03-31T15:22:52.387Z",
+            "modified": "2026-03-31T15:22:58.867Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~282025~298132",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=10.106554985046387,91.6568832397461,3948.8841676712036,6301.410987854004"
+        }
+    },
+    "id": "32bcc925-0db8-4ebf-aa0e-ad3c1e654b42.json",
+    "motivation": "commenting"
+}
