@@ -1,0 +1,34 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~448846~302944"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Torquay",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2026-03-31T16:01:44.447Z",
+            "modified": "2026-03-31T16:01:45.853Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~448846~302944",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=341.8554382324219,66.5193862915039,5454.589874267578,3400.803855895996"
+        }
+    },
+    "id": "0c6ae8b1-0a2f-4662-9684-babe5ac215f7.json",
+    "motivation": "commenting"
+}
