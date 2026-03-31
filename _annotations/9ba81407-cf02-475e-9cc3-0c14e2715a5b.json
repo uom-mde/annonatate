@@ -1,0 +1,34 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~102070~197394"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Mont Blanc",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2026-03-31T15:58:30.481Z",
+            "modified": "2026-03-31T15:58:32.262Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~102070~197394",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=361.4030456542969,228.69094848632812,7089.419708251953,2778.171600341797"
+        }
+    },
+    "id": "9ba81407-cf02-475e-9cc3-0c14e2715a5b.json",
+    "motivation": "commenting"
+}
