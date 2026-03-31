@@ -1,0 +1,34 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~49948~102408"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "undated note",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2026-03-31T13:53:49.812Z",
+            "modified": "2026-03-31T13:53:51.818Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~49948~102408",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=209.3919219970703,206.66510009765625,4477.74382019043,2759.8402709960938"
+        }
+    },
+    "id": "9cb9e8e8-dfa1-4f65-8291-5d94ab6192cb.json",
+    "motivation": "commenting"
+}
