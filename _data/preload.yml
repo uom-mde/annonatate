@@ -1,4 +1,10 @@
 images:
+- added: '2026-04-02 14:12:11.575764'
+  iiif: true
+  thumbnail: https://map-view.nls.uk/iiif/2/10600%2F106006307/full/120,/0/default.jpg
+  title: ''
+  url: https://map-view.nls.uk/iiif/2/10600%2F106006307/info.json
+  user: johndmccrory
 - added: '2026-03-31 16:06:31.408248'
   iiif: true
   thumbnail: ''
