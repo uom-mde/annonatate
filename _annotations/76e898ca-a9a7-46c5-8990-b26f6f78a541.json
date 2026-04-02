@@ -1,0 +1,34 @@
+---
+canvas: "https://map-view.nls.uk/iiif/2/10600%2F106006307/info.json"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Fairholme",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2026-04-02T14:14:45.883Z",
+            "modified": "2026-04-02T14:14:47.298Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://map-view.nls.uk/iiif/2/10600%2F106006307/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=15441.0712890625,7804.21240234375,605.720703125,759.71728515625"
+        }
+    },
+    "id": "76e898ca-a9a7-46c5-8990-b26f6f78a541.json",
+    "motivation": "commenting"
+}
