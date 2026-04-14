@@ -1,4 +1,10 @@
 images:
+- added: '2026-04-14 12:54:00.235460'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~99961~105846/full/!1024,1024/0/default.jpg
+  title: Entry in Account book relating to ministers.
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~99961~105846/manifest
+  user: johndmccrory
 - added: '2026-04-02 14:12:11.575764'
   iiif: true
   thumbnail: https://map-view.nls.uk/iiif/2/10600%2F106006307/full/120,/0/default.jpg
