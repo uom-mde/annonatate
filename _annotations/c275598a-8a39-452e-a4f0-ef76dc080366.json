@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~416186~306364/canvas/c1/page28"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Plan of Manchester and Salford about 1650",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2026-04-16T09:34:45.123Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~416186~306364/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~416186~306364/canvas/c1/page28",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2085.98779296875,1444.18310546875,2333.7998046875,1969.86572265625"
+        }
+    },
+    "id": "c275598a-8a39-452e-a4f0-ef76dc080366.json",
+    "motivation": "commenting"
+}
