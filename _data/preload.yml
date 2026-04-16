@@ -1,4 +1,10 @@
 images:
+- added: '2026-04-16 09:33:45.813385'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/maps002~1~1~416186~306364page0/full/!1024,1024/0/default.jpg
+  title: Unknown
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/maps002~1~1~416186~306364/manifest
+  user: johndmccrory
 - added: '2026-04-14 12:54:00.235460'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~99961~105846/full/!1024,1024/0/default.jpg
