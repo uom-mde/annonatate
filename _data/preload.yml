@@ -1,4 +1,10 @@
 images:
+- added: '2026-04-28 13:18:54.773514'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~100211~163470
+  user: johndmccrory
 - added: '2026-04-16 09:33:45.813385'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/maps002~1~1~416186~306364page0/full/!1024,1024/0/default.jpg
