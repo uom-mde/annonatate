@@ -1,4 +1,10 @@
 images:
+- added: '2026-05-01 08:46:17.443104'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://www.digitalcollections.manchester.ac.uk/iiif/MH-01970-00076
+  user: johndmccrory
 - added: '2026-04-29 09:50:18.935459'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/maps002~1~1~415992~297575/full/!1024,1024/0/default.jpg
