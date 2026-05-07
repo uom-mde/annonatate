@@ -4,20 +4,21 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Portrait of John Rylands",
-            "purpose": "commenting",
+            "created": "2026-05-07T10:18:47.148Z",
             "creator": {
                 "id": "johndmccrory",
                 "name": "johndmccrory"
             },
-            "created": "2026-05-07T10:18:47.148Z",
-            "modified": "2026-05-07T10:18:51.147Z"
+            "modified": "2026-05-07T10:18:51.147Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Portrait of John Rylands"
         }
     ],
+    "id": "f9ffc352-3e36-4ec0-bb92-bdbea4fae3f8.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +31,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=96.18440246582031,19.314924240112305,3618.3290252685547,5414.616716384888"
+            "value": "xywh=96.18440246582031,57.94477081298828,3586.1373748779297,5375.986869812012"
         }
     },
-    "id": "f9ffc352-3e36-4ec0-bb92-bdbea4fae3f8.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
