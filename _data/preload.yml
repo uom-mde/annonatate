@@ -1,4 +1,10 @@
 images:
+- added: '2026-05-07 10:18:19.335487'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~2814~201849/full/!1024,1024/0/default.jpg
+  title: Portrait of John Rylands
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~2814~201849/manifest
+  user: johndmccrory
 - added: '2026-05-07 10:14:22.603294'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~51800~102855/full/!1024,1024/0/default.jpg
