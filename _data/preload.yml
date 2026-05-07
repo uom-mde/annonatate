@@ -1,4 +1,10 @@
 images:
+- added: '2026-05-07 11:06:40.687999'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~281483~189422/full/!1024,1024/0/default.jpg
+  title: John Rylands and Carnelley family
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~281483~189422/manifest
+  user: johndmccrory
 - added: '2026-05-07 10:18:19.335487'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~2814~201849/full/!1024,1024/0/default.jpg
