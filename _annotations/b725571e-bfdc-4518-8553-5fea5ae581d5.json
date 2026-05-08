@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~282032~299176/canvas/c1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Arthur Forbes at home",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2026-05-08T14:16:30.174Z",
+            "modified": "2026-05-08T14:16:33.717Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~282032~299176/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~282032~299176/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=186.41519165039062,179.2452850341797,4528.302093505859,6169.81135559082"
+        }
+    },
+    "id": "b725571e-bfdc-4518-8553-5fea5ae581d5.json",
+    "motivation": "commenting"
+}
