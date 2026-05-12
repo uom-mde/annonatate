@@ -1,4 +1,10 @@
 images:
+- added: '2026-05-12 10:00:36.870783'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~101991~105936/full/!1024,1024/0/default.jpg
+  title: Fanny Sharman Huckett bookplate
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~101991~105936/manifest
+  user: johndmccrory
 - added: '2026-05-08 14:16:59.076732'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~282030~299178/full/!1024,1024/0/default.jpg
