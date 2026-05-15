@@ -1,4 +1,10 @@
 images:
+- added: '2026-05-15 09:56:21.921423'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~438405~238292/full/!1024,1024/0/default.jpg
+  title: Children queuing outside the Wood Street Mission
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~438405~238292/manifest
+  user: johndmccrory
 - added: '2026-05-13 12:55:50.228690'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~97538~105730/full/!1024,1024/0/default.jpg
