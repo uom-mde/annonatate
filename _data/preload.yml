@@ -1,4 +1,10 @@
 images:
+- added: '2026-05-15 15:33:52.534585'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~419826~157254/full/!1024,1024/0/default.jpg
+  title: Not Slothful in Business; Fervent in Spirit; Serving the Lord
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~419826~157254/manifest
+  user: johndmccrory
 - added: '2026-05-15 15:25:39.484448'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~100163~105862/full/!1024,1024/0/default.jpg
