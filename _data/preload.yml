@@ -1,4 +1,10 @@
 images:
+- added: '2026-05-20 15:04:43.693812'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~20863~102143/full/!1024,1024/0/default.jpg
+  title: Rylands Tomb
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~20863~102143/manifest
+  user: johndmccrory
 - added: '2026-05-15 15:33:52.534585'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~419826~157254/full/!1024,1024/0/default.jpg
