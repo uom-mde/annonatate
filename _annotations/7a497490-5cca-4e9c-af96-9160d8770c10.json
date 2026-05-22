@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~99781~105832/canvas/c1"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Reading room and gallery",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2026-05-22T14:32:37.590Z",
+            "modified": "2026-05-22T14:32:41.046Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~99781~105832/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~99781~105832/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=476.6992492675781,541.7061767578125,2764.958709716797,3289.7364501953125"
+        }
+    },
+    "id": "7a497490-5cca-4e9c-af96-9160d8770c10.json",
+    "motivation": "commenting"
+}
