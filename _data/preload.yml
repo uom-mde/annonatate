@@ -1,4 +1,10 @@
 images:
+- added: '2026-05-22 14:31:41.713101'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~99781~105832/full/!1024,1024/0/default.jpg
+  title: Reading Room & Gallery
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~99781~105832/manifest
+  user: johndmccrory
 - added: '2026-05-22 11:29:15.224379'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~49128~102364/full/!1024,1024/0/default.jpg
