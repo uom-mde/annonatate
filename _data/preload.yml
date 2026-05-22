@@ -1,4 +1,10 @@
 images:
+- added: '2026-05-22 11:29:15.224379'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~49128~102364/full/!1024,1024/0/default.jpg
+  title: Rylands composite
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~49128~102364/manifest
+  user: johndmccrory
 - added: '2026-05-20 15:31:38.191448'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~99728~105828/full/!1024,1024/0/default.jpg
