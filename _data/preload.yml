@@ -1,4 +1,10 @@
 images:
+- added: '2026-06-24 15:17:39.925497'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~89196~105074/full/!1024,1024/0/default.jpg
+  title: Freedom of the City of Manchester
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~89196~105074/manifest
+  user: johndmccrory
 - added: '2026-05-22 14:31:41.713101'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~99781~105832/full/!1024,1024/0/default.jpg
