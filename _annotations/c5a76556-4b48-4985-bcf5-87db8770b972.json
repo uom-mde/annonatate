@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~89196~105074/canvas/c1"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Enriqueta's coat of arms and the Red Rose of Lancashire",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2026-06-24T15:18:55.003Z",
+            "modified": "2026-06-24T15:19:30.959Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~89196~105074/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/lib1~1~1~89196~105074/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=469.5426940917969,641.8526000976562,490.1691589355469,573.8566284179688"
+        }
+    },
+    "id": "c5a76556-4b48-4985-bcf5-87db8770b972.json",
+    "motivation": "commenting"
+}
