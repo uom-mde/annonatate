@@ -1,4 +1,10 @@
 images:
+- added: '2026-07-01 15:02:54.808451'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://www.digitalcollections.manchester.ac.uk/iiif/PR-SPCC-23024
+  user: johndmccrory
 - added: '2026-06-24 15:17:39.925497'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~89196~105074/full/!1024,1024/0/default.jpg
