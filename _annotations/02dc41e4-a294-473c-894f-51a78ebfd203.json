@@ -1,0 +1,33 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~20059~102234"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Specification for electric lamp",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2026-07-08T13:18:37.268Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/lib1~1~1~20059~102234",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4.176910877227783,16.597558975219727,4735.837249279022,4066.4024410247803"
+        }
+    },
+    "id": "02dc41e4-a294-473c-894f-51a78ebfd203.json",
+    "motivation": "commenting"
+}
