@@ -1,4 +1,10 @@
 images:
+- added: '2026-07-29 08:03:02.912852'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~450567~311045/full/!1024,1024/0/default.jpg
+  title: Double page opening
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~450567~311045/manifest
+  user: johndmccrory
 - added: '2026-07-08 13:17:44.546098'
   iiif: true
   thumbnail: ''
