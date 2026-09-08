@@ -1,4 +1,10 @@
 images:
+- added: '2026-09-08 12:45:53.984340'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://www.digitalcollections.manchester.ac.uk/iiif/PR-JAPANESE-00101
+  user: johndmccrory
 - added: '2026-07-29 08:04:50.408096'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~450568~311044/full/!1024,1024/0/default.jpg
