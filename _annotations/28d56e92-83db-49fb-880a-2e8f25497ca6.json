@@ -1,0 +1,34 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~15~15~1179~314277page12"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Stephen Tennant",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johndmccrory",
+                "name": "johndmccrory"
+            },
+            "created": "2026-10-05T08:29:58.624Z",
+            "modified": "2026-10-05T08:30:00.174Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~15~15~1179~314277page12",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=358.1587829589844,174.39024353027344,4383.536529541016,3059.7562408447266"
+        }
+    },
+    "id": "28d56e92-83db-49fb-880a-2e8f25497ca6.json",
+    "motivation": "commenting"
+}
